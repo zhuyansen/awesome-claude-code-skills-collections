@@ -1,0 +1,52 @@
+{
+ "charlie947/motion-graphics-skills": {
+  "repo": "charlie947/motion-graphics-skills",
+  "url": "https://raw.githubusercontent.com/charlie947/motion-graphics-skills/HEAD/assets/readme/demo-launch.gif",
+  "alt": "A 20-second product launch film built entirely in code",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 4962226,
+  "file": "charlie947__motion-graphics-skills.gif",
+  "still": "charlie947__motion-graphics-skills.jpg"
+ },
+ "iart-ai/motion-design-skills": {
+  "repo": "iart-ai/motion-design-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/motion-design-skills/HEAD/showcase.gif",
+  "alt": "Motion Design Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4130435,
+  "file": "iart-ai__motion-design-skills.gif",
+  "still": "iart-ai__motion-design-skills.jpg"
+ },
+ "nathankim0/clean-architecture-skills": {
+  "repo": "nathankim0/clean-architecture-skills",
+  "url": "https://github.com/user-attachments/assets/e0b26116-97c8-4062-b323-ad7239f66006",
+  "alt": "Clean Architecture Skills",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1448244,
+  "file": "nathankim0__clean-architecture-skills.jpg",
+  "still": "nathankim0__clean-architecture-skills.jpg"
+ },
+ "openqa-cn/codexqa": {
+  "repo": "openqa-cn/codexqa",
+  "url": "https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/docs/assets/previews/code-analyzer.png",
+  "alt": "codexqa-code-analyzer change-impact graph",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 235456,
+  "file": "openqa-cn__codexqa.jpg",
+  "still": "openqa-cn__codexqa.jpg"
+ },
+ "zenstory-ai/video-recap-skills": {
+  "repo": "zenstory-ai/video-recap-skills",
+  "url": "https://raw.githubusercontent.com/zenstory-ai/video-recap-skills/HEAD/docs/jianying-export.jpg",
+  "alt": "导出的剪映草稿：原片、解说、BGM、字幕",
+  "score": -0.45,
+  "type": "image/jpeg",
+  "bytes": 277377,
+  "file": "zenstory-ai__video-recap-skills.jpg",
+  "still": "zenstory-ai__video-recap-skills.jpg"
+ }
+}
