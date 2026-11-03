@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "source": "https://agentskillshub.top/best/claude-code-skills/",
  "kinds": [
   {
@@ -31,7 +31,7 @@
   {
    "repo_full_name": "mattpocock/skills",
    "path": null,
-   "stars": 310013,
+   "stars": 311099,
    "description": "Skills for Real Engineers. Straight from my .agents directory.",
    "kind": "general",
    "security_grade": "safe",
@@ -41,7 +41,7 @@
   {
    "repo_full_name": "anthropics/skills",
    "path": null,
-   "stars": 186698,
+   "stars": 187021,
    "description": "Public repository for Agent Skills",
    "kind": "general",
    "security_grade": "safe",
@@ -51,7 +51,7 @@
   {
    "repo_full_name": "addyosmani/agent-skills",
    "path": null,
-   "stars": 112753,
+   "stars": 112983,
    "description": "Production-grade engineering skills for AI coding agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -61,7 +61,7 @@
   {
    "repo_full_name": "K-Dense-AI/scientific-agent-skills",
    "path": null,
-   "stars": 55820,
+   "stars": 55963,
    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
    "kind": "general",
    "security_grade": "safe",
@@ -71,7 +71,7 @@
   {
    "repo_full_name": "kepano/obsidian-skills",
    "path": null,
-   "stars": 50632,
+   "stars": 50685,
    "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
    "kind": "general",
    "security_grade": "safe",
@@ -81,7 +81,7 @@
   {
    "repo_full_name": "sickn33/agentic-awesome-skills",
    "path": null,
-   "stars": 49041,
+   "stars": 49088,
    "description": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
    "kind": "general",
    "security_grade": "safe",
@@ -91,7 +91,7 @@
   {
    "repo_full_name": "anthropics/claude-plugins-official",
    "path": null,
-   "stars": 45815,
+   "stars": 45950,
    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
    "kind": "general",
    "security_grade": "safe",
@@ -101,7 +101,7 @@
   {
    "repo_full_name": "davila7/claude-code-templates",
    "path": null,
-   "stars": 33071,
+   "stars": 33099,
    "description": "CLI tool for configuring and monitoring Claude Code",
    "kind": "general",
    "security_grade": "safe",
@@ -111,8 +111,8 @@
   {
    "repo_full_name": "alirezarezvani/claude-skills",
    "path": null,
-   "stars": 29165,
-   "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+   "stars": 29220,
+   "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
    "kind": "general",
    "security_grade": "safe",
    "language": "Python",
@@ -121,7 +121,7 @@
   {
    "repo_full_name": "VoltAgent/awesome-claude-code-subagents",
    "path": null,
-   "stars": 26280,
+   "stars": 26305,
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "kind": "general",
    "security_grade": "safe",
@@ -131,7 +131,7 @@
   {
    "repo_full_name": "KKKKhazix/khazix-skills",
    "path": null,
-   "stars": 21834,
+   "stars": 21878,
    "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
    "kind": "general",
    "security_grade": "safe",
@@ -141,7 +141,7 @@
   {
    "repo_full_name": "Jeffallan/claude-skills",
    "path": null,
-   "stars": 12181,
+   "stars": 12197,
    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
    "kind": "general",
    "security_grade": "safe",
@@ -151,7 +151,7 @@
   {
    "repo_full_name": "slavingia/skills",
    "path": null,
-   "stars": 11067,
+   "stars": 11078,
    "description": "Based on The Minimalist Entrepreneur by Sahil Lavingia",
    "kind": "general",
    "security_grade": "safe",
@@ -161,7 +161,7 @@
   {
    "repo_full_name": "SnailSploit/Claude-Red",
    "path": null,
-   "stars": 10246,
+   "stars": 10298,
    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
    "kind": "general",
    "security_grade": "safe",
@@ -171,7 +171,7 @@
   {
    "repo_full_name": "trailofbits/skills",
    "path": null,
-   "stars": 7958,
+   "stars": 7977,
    "description": "Trail of Bits skills for security research, vulnerability detection, and audit workflows",
    "kind": "general",
    "security_grade": "safe",
@@ -179,19 +179,9 @@
    "license": "CC-BY-SA-4.0"
   },
   {
-   "repo_full_name": "MengTo/Skills",
-   "path": null,
-   "stars": 7196,
-   "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Jakeschincariol/replica-skill",
    "path": null,
-   "stars": 7125,
+   "stars": 7289,
    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
    "kind": "general",
    "security_grade": "safe",
@@ -199,9 +189,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "MengTo/Skills",
+   "path": null,
+   "stars": 7215,
+   "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "tech-leads-club/agent-skills",
    "path": null,
-   "stars": 7124,
+   "stars": 7125,
    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
    "kind": "general",
    "security_grade": "safe",
@@ -211,7 +211,7 @@
   {
    "repo_full_name": "WorldFlowAI/everything-claude-code",
    "path": null,
-   "stars": 5769,
+   "stars": 5810,
    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
    "kind": "general",
    "security_grade": "safe",
@@ -221,7 +221,7 @@
   {
    "repo_full_name": "NVIDIA/skills",
    "path": null,
-   "stars": 3825,
+   "stars": 3846,
    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
    "kind": "general",
    "security_grade": "safe",
@@ -241,7 +241,7 @@
   {
    "repo_full_name": "davepoon/buildwithclaude",
    "path": null,
-   "stars": 3711,
+   "stars": 3715,
    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
    "kind": "general",
    "security_grade": "safe",
@@ -251,7 +251,7 @@
   {
    "repo_full_name": "ciembor/agent-rules-books",
    "path": null,
-   "stars": 3168,
+   "stars": 3182,
    "description": "AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.",
    "kind": "general",
    "security_grade": "safe",
@@ -261,7 +261,7 @@
   {
    "repo_full_name": "addyosmani/web-quality-skills",
    "path": null,
-   "stars": 3027,
+   "stars": 3030,
    "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
    "kind": "general",
    "security_grade": "safe",
@@ -271,7 +271,7 @@
   {
    "repo_full_name": "Paramchoudhary/ResumeSkills",
    "path": null,
-   "stars": 3005,
+   "stars": 3017,
    "description": "A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.",
    "kind": "general",
    "security_grade": "safe",
@@ -281,7 +281,7 @@
   {
    "repo_full_name": "rohitg00/pro-workflow",
    "path": null,
-   "stars": 2940,
+   "stars": 2941,
    "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
    "kind": "general",
    "security_grade": "safe",
@@ -291,7 +291,7 @@
   {
    "repo_full_name": "jeremylongshore/tons-of-skills-marketplace",
    "path": null,
-   "stars": 2890,
+   "stars": 2894,
    "description": "Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com.",
    "kind": "general",
    "security_grade": "safe",
@@ -301,7 +301,7 @@
   {
    "repo_full_name": "rohitg00/awesome-claude-code-toolkit",
    "path": null,
-   "stars": 2804,
+   "stars": 2809,
    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.",
    "kind": "general",
    "security_grade": "safe",
@@ -311,7 +311,7 @@
   {
    "repo_full_name": "badlogic/pi-skills",
    "path": null,
-   "stars": 2651,
+   "stars": 2652,
    "description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
    "kind": "general",
    "security_grade": "safe",
@@ -319,19 +319,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "cbrock84/headcount",
-   "path": null,
-   "stars": 2563,
-   "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Markdown",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "wondelai/skills",
    "path": null,
-   "stars": 2560,
+   "stars": 2571,
    "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -339,9 +329,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "cbrock84/headcount",
+   "path": null,
+   "stars": 2568,
+   "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Markdown",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "mrgoonie/claudekit-skills",
    "path": null,
-   "stars": 2230,
+   "stars": 2233,
    "description": "All powerful skills of ClaudeKit.cc!",
    "kind": "general",
    "security_grade": "safe",
@@ -351,7 +351,7 @@
   {
    "repo_full_name": "alchaincyf/huashu-skills",
    "path": null,
-   "stars": 2166,
+   "stars": 2181,
    "description": "花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制",
    "kind": "general",
    "security_grade": "safe",
@@ -371,7 +371,7 @@
   {
    "repo_full_name": "xu-xiang/everything-claude-code-zh",
    "path": null,
-   "stars": 2016,
+   "stars": 2018,
    "description": "everything-claude-code 中文翻译项目：完整的 Claude Code 配置集合（agents, skills, hooks, commands, rules, MCPs）。源自 Anthropic 黑客松获胜者的实战配置，助力中文工程师高效理解与使用 Claude Code。",
    "kind": "general",
    "security_grade": "safe",
@@ -391,7 +391,7 @@
   {
    "repo_full_name": "NeoLabHQ/context-engineering-kit",
    "path": null,
-   "stars": 1797,
+   "stars": 1798,
    "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
    "kind": "general",
    "security_grade": "safe",
@@ -401,7 +401,7 @@
   {
    "repo_full_name": "Pluviobyte/rnskill",
    "path": null,
-   "stars": 1709,
+   "stars": 1713,
    "description": "雪踏乌云的 AI Agent Skills 集合",
    "kind": "general",
    "security_grade": "safe",
@@ -419,19 +419,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "tjboudreaux/cc-thinking-skills",
-   "path": null,
-   "stars": 1694,
-   "description": "28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "arjun988/blender-skills",
    "path": null,
-   "stars": 1673,
+   "stars": 1703,
    "description": "94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export.",
    "kind": "general",
    "security_grade": "safe",
@@ -439,9 +429,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "tjboudreaux/cc-thinking-skills",
+   "path": null,
+   "stars": 1697,
+   "description": "28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "feiskyer/claude-code-settings",
    "path": null,
-   "stars": 1670,
+   "stars": 1672,
    "description": "Curated skills, sub-agents, and config templates that supercharge Claude Code — research, image gen, GitHub automation & more.",
    "kind": "general",
    "security_grade": "safe",
@@ -451,7 +451,7 @@
   {
    "repo_full_name": "vibe-motion/skills",
    "path": null,
-   "stars": 1521,
+   "stars": 1538,
    "description": "agent skills for vibe motion",
    "kind": "general",
    "security_grade": "safe",
@@ -471,7 +471,7 @@
   {
    "repo_full_name": "michaelshimeles/rstack",
    "path": null,
-   "stars": 1430,
+   "stars": 1434,
    "description": "Agent skills and an AGENTS.md workflow template — isolate in worktrees, build to a service layer, prove with evidence, ship with before/after proof and Greptile review loops. For Claude Code, Cursor, and Codex.",
    "kind": "general",
    "security_grade": "safe",
@@ -491,7 +491,7 @@
   {
    "repo_full_name": "dzhng/skills",
    "path": null,
-   "stars": 1395,
+   "stars": 1398,
    "description": "Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -501,7 +501,7 @@
   {
    "repo_full_name": "huytieu/COG-second-brain",
    "path": null,
-   "stars": 1336,
+   "stars": 1339,
    "description": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.",
    "kind": "general",
    "security_grade": "safe",
@@ -521,7 +521,7 @@
   {
    "repo_full_name": "fivetaku/gptaku_plugins",
    "path": null,
-   "stars": 1270,
+   "stars": 1274,
    "description": "A Claude Code plugin marketplace for people who want to become AI Native",
    "kind": "general",
    "security_grade": "safe",
@@ -541,7 +541,7 @@
   {
    "repo_full_name": "BagelHole/DevOps-Security-Agent-Skills",
    "path": null,
-   "stars": 1187,
+   "stars": 1188,
    "description": "Agent-ready DevOps, security, infrastructure, and compliance knowledge base with 80+ skills across Kubernetes, Terraform, AWS/Azure/GCP, AI platform operations, container hardening, SOC2/ISO27001, and incident response—plus ready-to-run scripts, templates, and playbooks for SRE, platform, and security teams.",
    "kind": "general",
    "security_grade": "safe",
@@ -551,8 +551,18 @@
   {
    "repo_full_name": "forcedotcom/sf-skills",
    "path": null,
-   "stars": 1139,
+   "stars": 1140,
    "description": "Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "getsentry/skills",
+   "path": null,
+   "stars": 1115,
+   "description": "Agent Skills used by the Sentry team for development.",
    "kind": "general",
    "security_grade": "safe",
    "language": "Python",
@@ -567,16 +577,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "getsentry/skills",
-   "path": null,
-   "stars": 1113,
-   "description": "Agent Skills used by the Sentry team for development.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "jezweb/claude-skills",
@@ -601,7 +601,7 @@
   {
    "repo_full_name": "borghei/Claude-Skills",
    "path": null,
-   "stars": 1032,
+   "stars": 1041,
    "description": "385 AI skills, 76 expert agents, and 906 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, research, and a LinkedIn toolkit. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
    "kind": "general",
    "security_grade": "safe",
@@ -611,7 +611,7 @@
   {
    "repo_full_name": "rampstackco/claude-skills",
    "path": null,
-   "stars": 1021,
+   "stars": 1024,
    "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
    "kind": "general",
    "security_grade": "safe",
@@ -621,7 +621,7 @@
   {
    "repo_full_name": "0xfurai/claude-code-subagents",
    "path": null,
-   "stars": 1020,
+   "stars": 1022,
    "description": "A comprehensive collection of 100+ production-ready development subagents for Claude Code",
    "kind": "general",
    "security_grade": "safe",
@@ -631,7 +631,7 @@
   {
    "repo_full_name": "LeonChaoX/qinyan-academic-skills",
    "path": null,
-   "stars": 1001,
+   "stars": 1005,
    "description": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.",
    "kind": "general",
    "security_grade": "safe",
@@ -641,7 +641,7 @@
   {
    "repo_full_name": "laolaoshiren/claude-code-skills-zh",
    "path": null,
-   "stars": 901,
+   "stars": 902,
    "description": "面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新",
    "kind": "general",
    "security_grade": "safe",
@@ -651,7 +651,7 @@
   {
    "repo_full_name": "coreyhaines31/makerskills",
    "path": null,
-   "stars": 881,
+   "stars": 880,
    "description": "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.",
    "kind": "general",
    "security_grade": "safe",
@@ -661,7 +661,7 @@
   {
    "repo_full_name": "sangrokjung/claude-forge",
    "path": null,
-   "stars": 871,
+   "stars": 872,
    "description": "oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.",
    "kind": "general",
    "security_grade": "safe",
@@ -671,7 +671,7 @@
   {
    "repo_full_name": "coleam00/second-brain-skills",
    "path": null,
-   "stars": 839,
+   "stars": 840,
    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain",
    "kind": "general",
    "security_grade": "safe",
@@ -691,7 +691,7 @@
   {
    "repo_full_name": "inference-sh/skills",
    "path": null,
-   "stars": 797,
+   "stars": 800,
    "description": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents",
    "kind": "general",
    "security_grade": "safe",
@@ -701,7 +701,7 @@
   {
    "repo_full_name": "yunshu0909/yunshu_skillshub",
    "path": null,
-   "stars": 788,
+   "stars": 789,
    "description": "云舒精选的 Claude Code Skills 集合，提升开发和产品管理效率",
    "kind": "general",
    "security_grade": "safe",
@@ -711,7 +711,7 @@
   {
    "repo_full_name": "alirezarezvani/claude-code-tresor",
    "path": null,
-   "stars": 782,
+   "stars": 781,
    "description": "A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow",
    "kind": "general",
    "security_grade": "safe",
@@ -731,7 +731,7 @@
   {
    "repo_full_name": "Archive228/loopkit",
    "path": null,
-   "stars": 756,
+   "stars": 757,
    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
    "kind": "general",
    "security_grade": "safe",
@@ -741,7 +741,7 @@
   {
    "repo_full_name": "obra/superpowers-skills",
    "path": null,
-   "stars": 755,
+   "stars": 757,
    "description": "Community-editable skills for Claude Code's superpowers plugin",
    "kind": "general",
    "security_grade": "safe",
@@ -761,12 +761,22 @@
   {
    "repo_full_name": "DannyMac180/skills",
    "path": null,
-   "stars": 747,
+   "stars": 750,
    "description": "AI agent skills created by me: Dan McAteer",
    "kind": "general",
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "AThevon/genjutsu",
+   "path": null,
+   "stars": 733,
+   "description": "Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web (GSAP, Motion, Three.js, CSS), Android (Jetpack Compose) and Apple (SwiftUI). Proposes an interaction thesis you approve before it writes any code. Anti-AI-slop.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "staruhub/ClaudeSkills",
@@ -781,22 +791,12 @@
   {
    "repo_full_name": "coleam00/skills",
    "path": null,
-   "stars": 727,
+   "stars": 728,
    "description": "The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.",
    "kind": "general",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "AThevon/genjutsu",
-   "path": null,
-   "stars": 726,
-   "description": "Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web (GSAP, Motion, Three.js, CSS), Android (Jetpack Compose) and Apple (SwiftUI). Proposes an interaction thesis you approve before it writes any code. Anti-AI-slop.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "kangarooking/kangarooking-skills",
@@ -841,7 +841,7 @@
   {
    "repo_full_name": "ognjengt/founder-skills",
    "path": null,
-   "stars": 656,
+   "stars": 657,
    "description": "Claude skills for founders",
    "kind": "general",
    "security_grade": "safe",
@@ -851,7 +851,7 @@
   {
    "repo_full_name": "LeastBit/Claude_skills_zh-CN",
    "path": null,
-   "stars": 603,
+   "stars": 604,
    "description": "Anthropics/skills中文学习版本 来自：https://github.com/anthropics/skills",
    "kind": "general",
    "security_grade": "safe",
@@ -881,7 +881,7 @@
   {
    "repo_full_name": "michalparkola/tapestry-skills",
    "path": null,
-   "stars": 570,
+   "stars": 572,
    "description": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
    "kind": "general",
    "security_grade": "safe",
@@ -891,7 +891,7 @@
   {
    "repo_full_name": "claude-office-skills/skills",
    "path": null,
-   "stars": 558,
+   "stars": 559,
    "description": "A curated collection of practical Claude Skills for real-world office tasks",
    "kind": "general",
    "security_grade": "safe",
@@ -911,7 +911,7 @@
   {
    "repo_full_name": "yanliudesign/offer-toolkit-skill",
    "path": null,
-   "stars": 551,
+   "stars": 552,
    "description": "Full job-hunt Claude skill bundle — Job Description decoder + Resume builder (11 templates) + Behavioral Interview / story bank. Three self-contained sub-skills with a top-level router.",
    "kind": "general",
    "security_grade": "safe",
@@ -921,7 +921,7 @@
   {
    "repo_full_name": "Lifecycle-Innovations-Limited/claude-ops",
    "path": null,
-   "stars": 547,
+   "stars": 548,
    "description": "Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode.",
    "kind": "general",
    "security_grade": "safe",
@@ -961,7 +961,7 @@
   {
    "repo_full_name": "trailofbits/skills-curated",
    "path": null,
-   "stars": 523,
+   "stars": 524,
    "description": "Curated, community-vetted Claude Code plugin marketplace",
    "kind": "general",
    "security_grade": "safe",
@@ -1001,7 +1001,7 @@
   {
    "repo_full_name": "briiirussell/cybersecurity-skills",
    "path": null,
-   "stars": 491,
+   "stars": 494,
    "description": "Cybersecurity skills for AI coding agents (Claude Code, Cursor, Codex)",
    "kind": "general",
    "security_grade": "safe",
@@ -1011,7 +1011,7 @@
   {
    "repo_full_name": "cosmicstack-labs/mercury-agent-skills",
    "path": null,
-   "stars": 487,
+   "stars": 488,
    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
    "kind": "general",
    "security_grade": "safe",
@@ -1021,7 +1021,7 @@
   {
    "repo_full_name": "QuZhan51496/paper2anything",
    "path": null,
-   "stars": 483,
+   "stars": 484,
    "description": "An agent skills pack that turns an academic paper PDF into slides, a poster, a webpage, a Xiaohongshu post, or a WeChat article (paper2slides/poster/html/xhs/wechat)",
    "kind": "general",
    "security_grade": "safe",
@@ -1031,7 +1031,7 @@
   {
    "repo_full_name": "bencium/bencium-marketplace",
    "path": null,
-   "stars": 476,
+   "stars": 479,
    "description": "comprehensive skills based on the Anthropic Skills guide and our design and development philosophy",
    "kind": "general",
    "security_grade": "safe",
@@ -1051,7 +1051,7 @@
   {
    "repo_full_name": "aiskillstore/marketplace",
    "path": null,
-   "stars": 451,
+   "stars": 452,
    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
    "kind": "general",
    "security_grade": "safe",
@@ -1071,7 +1071,7 @@
   {
    "repo_full_name": "boraoztunc/skills",
    "path": null,
-   "stars": 438,
+   "stars": 439,
    "description": "Claude Code skills for copywriting, SEO, design, and more",
    "kind": "general",
    "security_grade": "safe",
@@ -1079,9 +1079,19 @@
    "license": "Apache-2.0"
   },
   {
+   "repo_full_name": "hamzafer/claude-code-mods",
+   "path": null,
+   "stars": 438,
+   "description": "Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "obra/superpowers-lab",
    "path": null,
-   "stars": 435,
+   "stars": 436,
    "description": "Experimental skills for Claude Code Superpowers - new techniques and tools",
    "kind": "general",
    "security_grade": "safe",
@@ -1099,13 +1109,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "hamzafer/claude-code-mods",
+   "repo_full_name": "quodsoler/unreal-engine-skills",
    "path": null,
    "stars": 434,
-   "description": "Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.",
+   "description": "Unreal Engine C++ skills for AI coding agents. 27 skills covering gameplay, rendering, networking, animation, and more. Works with Claude Code, Cursor, Windsurf, and any agent supporting the Agent Skills spec.",
    "kind": "general",
    "security_grade": "safe",
-   "language": "TypeScript",
+   "language": null,
    "license": "MIT"
   },
   {
@@ -1113,16 +1123,6 @@
    "path": null,
    "stars": 430,
    "description": "Claude Code slash commands for extracting Xiaohongshu posts into Obsidian notes",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "quodsoler/unreal-engine-skills",
-   "path": null,
-   "stars": 428,
-   "description": "Unreal Engine C++ skills for AI coding agents. 27 skills covering gameplay, rendering, networking, animation, and more. Works with Claude Code, Cursor, Windsurf, and any agent supporting the Agent Skills spec.",
    "kind": "general",
    "security_grade": "safe",
    "language": null,
@@ -1141,7 +1141,7 @@
   {
    "repo_full_name": "owainlewis/blueprint",
    "path": null,
-   "stars": 425,
+   "stars": 426,
    "description": "The best agent skills in the world for software development.",
    "kind": "general",
    "security_grade": "safe",
@@ -1171,7 +1171,7 @@
   {
    "repo_full_name": "OneWave-AI/claude-skills",
    "path": null,
-   "stars": 409,
+   "stars": 411,
    "description": "200+ production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI.",
    "kind": "general",
    "security_grade": "safe",
@@ -1181,7 +1181,7 @@
   {
    "repo_full_name": "glebis/claude-skills",
    "path": null,
-   "stars": 405,
+   "stars": 407,
    "description": "Collection of Agent skills for enhanced AI workflows",
    "kind": "general",
    "security_grade": "safe",
@@ -1191,7 +1191,7 @@
   {
    "repo_full_name": "JetBrains/skills",
    "path": null,
-   "stars": 386,
+   "stars": 387,
    "description": "Curated agent skills collection verified by JetBrains",
    "kind": "general",
    "security_grade": "safe",
@@ -1201,7 +1201,7 @@
   {
    "repo_full_name": "databricks/databricks-agent-skills",
    "path": null,
-   "stars": 381,
+   "stars": 382,
    "description": "Databricks AI Tools: skills and plugins for building on Databricks with Claude Code, Cursor, Codex, GitHub Copilot, and other AI coding agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -1211,7 +1211,7 @@
   {
    "repo_full_name": "imraywang/rayskills",
    "path": null,
-   "stars": 379,
+   "stars": 382,
    "description": "Ray 制作的中文 AI Skills：写长文和口播稿、做封面和解说视频、存公众号和 X 草稿。支持 Claude Code、Codex、WorkBuddy。",
    "kind": "general",
    "security_grade": "safe",
@@ -1251,7 +1251,7 @@
   {
    "repo_full_name": "athola/claude-night-market",
    "path": null,
-   "stars": 345,
+   "stars": 347,
    "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -1261,7 +1261,7 @@
   {
    "repo_full_name": "JohnnyVizz/claude-kit",
    "path": null,
-   "stars": 336,
+   "stars": 342,
    "description": "Public Claude Code skills and mods",
    "kind": "general",
    "security_grade": "safe",
@@ -1299,16 +1299,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "yonatangross/orchestkit",
-   "path": null,
-   "stars": 300,
-   "description": "The Complete AI Development Toolkit for Claude Code. 115 skills, 36 agents, 161 hooks. Install `ork` for stable (v10.x).",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "intellectronica/agent-skills",
    "path": null,
    "stars": 299,
@@ -1319,9 +1309,19 @@
    "license": "CC0-1.0"
   },
   {
+   "repo_full_name": "yonatangross/orchestkit",
+   "path": null,
+   "stars": 299,
+   "description": "The Complete AI Development Toolkit for Claude Code. 115 skills, 36 agents, 161 hooks. Install `ork` for stable (v10.x).",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "w95/awesome-claude-corporate-skills",
    "path": null,
-   "stars": 294,
+   "stars": 295,
    "description": "166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations, engineering, product, data, customer success, procurement & document processing",
    "kind": "general",
    "security_grade": "safe",
@@ -1331,7 +1331,7 @@
   {
    "repo_full_name": "Mindrally/skills",
    "path": null,
-   "stars": 291,
+   "stars": 293,
    "description": "265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills",
    "kind": "general",
    "security_grade": "safe",
@@ -1381,12 +1381,22 @@
   {
    "repo_full_name": "apify/awesome-skills",
    "path": null,
-   "stars": 285,
+   "stars": 286,
    "description": "Community collection of Apify agent skills for AI coding assistants",
    "kind": "general",
    "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "YYH211/Claude-meta-skill",
+   "path": null,
+   "stars": 285,
+   "description": "A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "Eigenwise/eigenwise-toolshed",
@@ -1396,16 +1406,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "YYH211/Claude-meta-skill",
-   "path": null,
-   "stars": 284,
-   "description": "A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -1479,6 +1479,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "secondsky/claude-skills",
+   "path": null,
+   "stars": 244,
+   "description": "Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "telagod/code-abyss",
    "path": null,
    "stars": 244,
@@ -1489,13 +1499,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "secondsky/claude-skills",
+   "repo_full_name": "serejaris/personal-corp-skills",
    "path": null,
-   "stars": 242,
-   "description": "Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations",
+   "stars": 241,
+   "description": "Personal Corp OS — управление личной компанией через AI-агентов: задачи вне головы, отделы вместо памяти, недельное ретро. Открытые скиллы для Claude Code и Codex",
    "kind": "general",
    "security_grade": "safe",
-   "language": "TypeScript",
+   "language": "HTML",
    "license": "MIT"
   },
   {
@@ -1506,16 +1516,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "serejaris/personal-corp-skills",
-   "path": null,
-   "stars": 240,
-   "description": "Personal Corp OS — управление личной компанией через AI-агентов: задачи вне головы, отделы вместо памяти, недельное ретро. Открытые скиллы для Claude Code и Codex",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "HTML",
    "license": "MIT"
   },
   {
@@ -1531,7 +1531,7 @@
   {
    "repo_full_name": "human-avatar/skills-for-humanity",
    "path": null,
-   "stars": 236,
+   "stars": 238,
    "description": "Structured reasoning methodologies from history's most rigorous thinkers, packaged as Claude Code skills.",
    "kind": "general",
    "security_grade": "safe",
@@ -1541,11 +1541,21 @@
   {
    "repo_full_name": "yan-labs/yan-skills",
    "path": null,
-   "stars": 229,
+   "stars": 231,
    "description": "Yan's agent skills collection — Google Trends SEO workflows, AI news, autopilot, and more. For Claude Code / Codex / Cursor.",
    "kind": "general",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "calesthio/generative-media-skills",
+   "path": null,
+   "stars": 227,
+   "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -1569,19 +1579,9 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "calesthio/generative-media-skills",
-   "path": null,
-   "stars": 226,
-   "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "artwist-polyakov/polyakov-claude-skills",
    "path": null,
-   "stars": 225,
+   "stars": 226,
    "description": "Набор скиллов для ИИ-агентов",
    "kind": "general",
    "security_grade": "safe",
@@ -1621,7 +1621,7 @@
   {
    "repo_full_name": "pproenca/dot-skills",
    "path": null,
-   "stars": 220,
+   "stars": 221,
    "description": "A collection of AI agent skills following the Agent Skills open format",
    "kind": "general",
    "security_grade": "safe",
@@ -1689,9 +1689,19 @@
    "license": "Apache-2.0"
   },
   {
+   "repo_full_name": "genkovich/sdd",
+   "path": null,
+   "stars": 198,
+   "description": "Spec-Driven Development for Claude Code: 12 atomic Socratic skills + a TDD implement engine (agent-team & dynamic-workflow modes)",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Jahrome907/minecraft-agent-skills",
    "path": null,
-   "stars": 197,
+   "stars": 196,
    "description": "Minecraft AI agent skills and dual-target plugin bundle for Codex and Claude Code.",
    "kind": "general",
    "security_grade": "safe",
@@ -1699,13 +1709,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "genkovich/sdd",
+   "repo_full_name": "swyxio/skills",
    "path": null,
-   "stars": 196,
-   "description": "Spec-Driven Development for Claude Code: 12 atomic Socratic skills + a TDD implement engine (agent-team & dynamic-workflow modes)",
+   "stars": 194,
+   "description": "Agent skills for Claude Code and other AI agents",
    "kind": "general",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1729,16 +1739,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "swyxio/skills",
-   "path": null,
-   "stars": 193,
-   "description": "Agent skills for Claude Code and other AI agents",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "treylom/prompt-engineering-skills",
    "path": null,
    "stars": 193,
@@ -1747,6 +1747,16 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "TerminalSkills/skills",
+   "path": null,
+   "stars": 192,
+   "description": "Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "kid-sid/claude-spellbook",
@@ -1767,16 +1777,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "TerminalSkills/skills",
-   "path": null,
-   "stars": 190,
-   "description": "Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "boostvolt/claude-code-lsps",
@@ -1809,6 +1809,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "lyndonkl/claude",
+   "path": null,
+   "stars": 189,
+   "description": "Agents, skills and anything else to use with claude",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "SpaceZephyr/design-buddy",
    "path": null,
    "stars": 188,
@@ -1819,14 +1829,14 @@
    "license": null
   },
   {
-   "repo_full_name": "lyndonkl/claude",
+   "repo_full_name": "trilwu/secskills",
    "path": null,
-   "stars": 188,
-   "description": "Agents, skills and anything else to use with claude",
+   "stars": 183,
+   "description": "Transform Claude Code into your personal security engineer",
    "kind": "general",
    "security_grade": "safe",
    "language": "Python",
-   "license": null
+   "license": "MIT"
   },
   {
    "repo_full_name": "datadog-labs/agent-skills",
@@ -1839,19 +1849,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "trilwu/secskills",
-   "path": null,
-   "stars": 182,
-   "description": "Transform Claude Code into your personal security engineer",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "appautomaton/document-SKILLs",
    "path": null,
-   "stars": 180,
+   "stars": 181,
    "description": "Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked changes, adapted from Anthropic skills.",
    "kind": "general",
    "security_grade": "safe",
@@ -1861,7 +1861,7 @@
   {
    "repo_full_name": "ascend-ai-coding/awesome-ascend-skills",
    "path": null,
-   "stars": 180,
+   "stars": 181,
    "description": "A comprehensive knowledge base for Huawei Ascend NPU development, structured as distributed Agent Skills. https://ascend-ai-coding.github.io/awesome-ascend-skills/",
    "kind": "general",
    "security_grade": "safe",
@@ -1901,7 +1901,7 @@
   {
    "repo_full_name": "gaasher/Agent-Loop-Skills",
    "path": null,
-   "stars": 178,
+   "stars": 179,
    "description": "Loop until it's better — drop-in agentic loops (autoresearch, scientific writing, data analysis, code/SQL/prompt optimization, red-teaming) as open-standard Agent Skills. Verification-gated; native on Claude Code, portable across Codex, Cursor & other Skills hosts.",
    "kind": "general",
    "security_grade": "safe",
@@ -1911,7 +1911,7 @@
   {
    "repo_full_name": "apple-ouyang/book-to-skill",
    "path": null,
-   "stars": 177,
+   "stars": 178,
    "description": "把书拆成 AI Agent 可执行的 Skill，让书中的智慧变成你的决策副驾驶 | Turn books into executable AI Agent Skills",
    "kind": "general",
    "security_grade": "safe",
@@ -1999,6 +1999,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "diegosouzapw/awesome-omni-skills",
+   "path": null,
+   "stars": 166,
+   "description": "Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "aahl/skills",
    "path": null,
    "stars": 165,
@@ -2016,16 +2026,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "diegosouzapw/awesome-omni-skills",
-   "path": null,
-   "stars": 165,
-   "description": "Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -2139,6 +2139,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "techwolf-ai/ai-first-toolkit",
+   "path": null,
+   "stars": 139,
+   "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-first design principles.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "happycapy-ai/Happycapy-skills",
    "path": null,
    "stars": 138,
@@ -2149,24 +2159,24 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "techwolf-ai/ai-first-toolkit",
-   "path": null,
-   "stars": 138,
-   "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-first design principles.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "AlexAI-MCP/hermes-CCC",
    "path": null,
-   "stars": 134,
+   "stars": 135,
    "description": "Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process",
    "kind": "general",
    "security_grade": "safe",
    "language": "PowerShell",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "robertguss/claude-code-toolkit",
+   "path": null,
+   "stars": 135,
+   "description": "A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "appautomaton/agent-designer",
@@ -2177,16 +2187,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "robertguss/claude-code-toolkit",
-   "path": null,
-   "stars": 133,
-   "description": "A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "YiShu5/claude-skills",
@@ -2209,6 +2209,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "fabricioctelles/skills",
+   "path": null,
+   "stars": 127,
+   "description": "A collection of skills for AI agents (Kiro, Cursor, Windsurf, Claude Code, and others). Each skill is a reusable module that teaches the agent to perform complex tasks with context, structure, and best practices.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "JasonColapietro/suede-creator-skills",
    "path": null,
    "stars": 126,
@@ -2217,16 +2227,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "fabricioctelles/skills",
-   "path": null,
-   "stars": 126,
-   "description": "A collection of skills for AI agents (Kiro, Cursor, Windsurf, Claude Code, and others). Each skill is a reusable module that teaches the agent to perform complex tasks with context, structure, and best practices.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "Soul-Brews-Studio/arra-oracle-skills-cli",
@@ -2239,6 +2239,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "neurofoo/agent-skills",
+   "path": null,
+   "stars": 124,
+   "description": "Agent Skills for Claude Code and OpenCode",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Houseofmvps/ultraship",
    "path": null,
    "stars": 123,
@@ -2246,16 +2256,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "neurofoo/agent-skills",
-   "path": null,
-   "stars": 123,
-   "description": "Agent Skills for Claude Code and OpenCode",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": null,
    "license": "MIT"
   },
   {
@@ -2281,7 +2281,7 @@
   {
    "repo_full_name": "LearnPrompt/andrej-karpathy-skills",
    "path": null,
-   "stars": 118,
+   "stars": 119,
    "description": "Karpathy-inspired Agent Skills collection",
    "kind": "general",
    "security_grade": "safe",
@@ -2339,6 +2339,16 @@
    "license": null
   },
   {
+   "repo_full_name": "jdevalk/skills",
+   "path": null,
+   "stars": 111,
+   "description": "Agent skills for GitHub repos and profiles, WordPress and EmDash plugins, Astro SEO, and content readability.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "wdm0006/python-skills",
    "path": null,
    "stars": 111,
@@ -2359,13 +2369,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "jdevalk/skills",
+   "repo_full_name": "nathankim0/clean-architecture-skills",
    "path": null,
-   "stars": 110,
-   "description": "Agent skills for GitHub repos and profiles, WordPress and EmDash plugins, Astro SEO, and content readability.",
+   "stars": 109,
+   "description": "Clean Architecture and Kent Beck refactoring skills for Claude Code and OpenAI Codex: code review, architecture design, SOLID, and simple design.",
    "kind": "general",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -2407,16 +2417,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "nathankim0/clean-architecture-skills",
-   "path": null,
-   "stars": 108,
-   "description": "Clean Architecture and Kent Beck refactoring skills for Claude Code and OpenAI Codex: code review, architecture design, SOLID, and simple design.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "312362115/claude",
@@ -2479,6 +2479,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "thiientv/godmode",
+   "path": null,
+   "stars": 100,
+   "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "2389-research/claude-plugins",
    "path": null,
    "stars": 99,
@@ -2499,6 +2509,16 @@
    "license": null
   },
   {
+   "repo_full_name": "AsyrafHussin/agent-skills",
+   "path": null,
+   "stars": 99,
+   "description": "Skills for AI coding agents — Laravel, PHP, React, TypeScript, testing, security, and code quality.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "thedesignproject/agent-skills",
    "path": null,
    "stars": 99,
@@ -2506,26 +2526,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "HTML",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "thiientv/godmode",
-   "path": null,
-   "stars": 99,
-   "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "AsyrafHussin/agent-skills",
-   "path": null,
-   "stars": 98,
-   "description": "Skills for AI coding agents — Laravel, PHP, React, TypeScript, testing, security, and code quality.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": null,
    "license": "MIT"
   },
   {
@@ -2539,6 +2539,26 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "simota/agent-skills",
+   "path": null,
+   "stars": 98,
+   "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, hub-spoke orchestration via Nexus with 49 Recipes and 11 Skill Packs. Covers development, security, design, testing, FinOps, compliance, observability, and AI/ML.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "tronghieu/agent-skills",
+   "path": null,
+   "stars": 98,
+   "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works with Claude Code, Codex, Cursor and any agentskills.io-compatible agent.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "youdotcom-oss/agent-skills",
    "path": null,
    "stars": 98,
@@ -2546,16 +2566,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "simota/agent-skills",
-   "path": null,
-   "stars": 97,
-   "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, hub-spoke orchestration via Nexus with 49 Recipes and 11 Skill Packs. Covers development, security, design, testing, FinOps, compliance, observability, and AI/ML.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -2567,16 +2577,6 @@
    "security_grade": "safe",
    "language": "PowerShell",
    "license": null
-  },
-  {
-   "repo_full_name": "tronghieu/agent-skills",
-   "path": null,
-   "stars": 96,
-   "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works with Claude Code, Codex, Cursor and any agentskills.io-compatible agent.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "trussary/vietnamese-language-skill",
@@ -2709,6 +2709,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "netresearch/claude-code-marketplace",
+   "path": null,
+   "stars": 87,
+   "description": "Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "didixuxu/didi-skills",
    "path": null,
    "stars": 86,
@@ -2719,10 +2729,10 @@
    "license": null
   },
   {
-   "repo_full_name": "netresearch/claude-code-marketplace",
+   "repo_full_name": "ericgandrade/claude-superskills",
    "path": null,
    "stars": 86,
-   "description": "Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.",
+   "description": "18 Universal AI Skills for Claude Code, GitHub Copilot & 6 more platforms. Meta/orchestration, planning, research, and content — the focused core of the Superskills family.",
    "kind": "general",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -2737,16 +2747,6 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
-  },
-  {
-   "repo_full_name": "ericgandrade/claude-superskills",
-   "path": null,
-   "stars": 85,
-   "description": "18 Universal AI Skills for Claude Code, GitHub Copilot & 6 more platforms. Meta/orchestration, planning, research, and content — the focused core of the Superskills family.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "existential-birds/beagle",
@@ -2769,6 +2769,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "xiaolai/claude-plugin-marketplace",
+   "path": null,
+   "stars": 85,
+   "description": "Central marketplace for Claude Code plugins by xiaolai",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "ISC"
+  },
+  {
    "repo_full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
    "path": null,
    "stars": 84,
@@ -2779,16 +2789,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "xiaolai/claude-plugin-marketplace",
-   "path": null,
-   "stars": 83,
-   "description": "Central marketplace for Claude Code plugins by xiaolai",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "ISC"
-  },
-  {
    "repo_full_name": "TestAny-io/testany-agent-skills",
    "path": null,
    "stars": 82,
@@ -2796,6 +2796,16 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "LOGIN-TB/claude-skills",
+   "path": null,
+   "stars": 81,
+   "description": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -2826,16 +2836,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "LOGIN-TB/claude-skills",
-   "path": null,
-   "stars": 80,
-   "description": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -2879,6 +2879,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "YouMind-OpenLab/skills",
+   "path": null,
+   "stars": 78,
+   "description": "YouMind skills for Claude Code",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
    "repo_full_name": "bobmatnyc/claude-mpm-skills",
    "path": null,
    "stars": 78,
@@ -2889,23 +2899,33 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "YouMind-OpenLab/skills",
+   "repo_full_name": "dengyie/awesome-skills",
    "path": null,
-   "stars": 77,
-   "description": "YouMind skills for Claude Code",
+   "stars": 75,
+   "description": "Production-ready, modular Agent Skills for software engineering, code quality review, network tunneling, and UI components. Compatible with Claude Code, Codex, and Cursor.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "mukiwu/muki-ai-plugins",
+   "path": null,
+   "stars": 74,
+   "description": "A Claude Code plugin marketplace for quality assurance — visual regression testing and test review.",
    "kind": "general",
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
   },
   {
-   "repo_full_name": "dengyie/awesome-skills",
+   "repo_full_name": "richtabor/agent-skills",
    "path": null,
    "stars": 74,
-   "description": "Production-ready, modular Agent Skills for software engineering, code quality review, network tunneling, and UI components. Compatible with Claude Code, Codex, and Cursor.",
+   "description": "Agent skills I use every day.",
    "kind": "general",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "Shell",
    "license": null
   },
   {
@@ -2929,26 +2949,6 @@
    "license": null
   },
   {
-   "repo_full_name": "mukiwu/muki-ai-plugins",
-   "path": null,
-   "stars": 73,
-   "description": "A Claude Code plugin marketplace for quality assurance — visual regression testing and test review.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": null
-  },
-  {
-   "repo_full_name": "richtabor/agent-skills",
-   "path": null,
-   "stars": 73,
-   "description": "Agent skills I use every day.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": null
-  },
-  {
    "repo_full_name": "seaworld008/Commonly-used-high-value-skills",
    "path": null,
    "stars": 73,
@@ -2969,6 +2969,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "JeredBlu/jeredblu-marketplace",
+   "path": null,
+   "stars": 71,
+   "description": "Custom Claude Code resources: skills, commands, and tools from JeredBlu's YouTube channel",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "devfullcycle/claude-mkt-place",
    "path": null,
    "stars": 71,
@@ -2976,16 +2986,6 @@
    "kind": "general",
    "security_grade": "safe",
    "language": null,
-   "license": null
-  },
-  {
-   "repo_full_name": "JeredBlu/jeredblu-marketplace",
-   "path": null,
-   "stars": 70,
-   "description": "Custom Claude Code resources: skills, commands, and tools from JeredBlu's YouTube channel",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
    "license": null
   },
   {
@@ -3179,6 +3179,16 @@
    "license": null
   },
   {
+   "repo_full_name": "manutej/luxor-claude-marketplace",
+   "path": null,
+   "stars": 63,
+   "description": "Professional Claude Code marketplace with 140 development tools: 67 skills, 28 commands, 30 agents, 15 workflows",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": null
+  },
+  {
    "repo_full_name": "ElliotJLT/Claude-Skill-Potions",
    "path": null,
    "stars": 62,
@@ -3207,16 +3217,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "manutej/luxor-claude-marketplace",
-   "path": null,
-   "stars": 62,
-   "description": "Professional Claude Code marketplace with 140 development tools: 67 skills, 28 commands, 30 agents, 15 workflows",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": null
   },
   {
    "repo_full_name": "Nimbleway/agent-skills",
@@ -3591,7 +3591,7 @@
   {
    "repo_full_name": "coreyhaines31/marketingskills",
    "path": null,
-   "stars": 58044,
+   "stars": 58257,
    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3601,7 +3601,7 @@
   {
    "repo_full_name": "Imbad0202/academic-research-skills",
    "path": null,
-   "stars": 55021,
+   "stars": 55197,
    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
    "kind": "domain",
    "security_grade": "safe",
@@ -3611,7 +3611,7 @@
   {
    "repo_full_name": "mukul975/Anthropic-Cybersecurity-Skills",
    "path": null,
-   "stars": 35449,
+   "stars": 35507,
    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
    "kind": "domain",
    "security_grade": "safe",
@@ -3621,7 +3621,7 @@
   {
    "repo_full_name": "Donchitos/Claude-Code-Game-Studios",
    "path": null,
-   "stars": 33310,
+   "stars": 34399,
    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3631,7 +3631,7 @@
   {
    "repo_full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
    "path": null,
-   "stars": 18498,
+   "stars": 18574,
    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3641,7 +3641,7 @@
   {
    "repo_full_name": "jakubkrehel/skills",
    "path": null,
-   "stars": 10305,
+   "stars": 10551,
    "description": "A collection of agent skills that help you build great interfaces.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3651,7 +3651,7 @@
   {
    "repo_full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
    "path": null,
-   "stars": 8720,
+   "stars": 8746,
    "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
    "kind": "domain",
    "security_grade": "safe",
@@ -3661,7 +3661,7 @@
   {
    "repo_full_name": "jnMetaCode/superpowers-zh",
    "path": null,
-   "stars": 8445,
+   "stars": 8449,
    "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（250k+ ⭐）完整汉化 + 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活",
    "kind": "domain",
    "security_grade": "safe",
@@ -3671,7 +3671,7 @@
   {
    "repo_full_name": "zenstory-ai/oh-story-claudecode",
    "path": null,
-   "stars": 8267,
+   "stars": 8281,
    "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 | 14 skills for novel writing and long-form fiction with file-based continuity tracking. MIT.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3681,7 +3681,7 @@
   {
    "repo_full_name": "deanpeters/Product-Manager-Skills",
    "path": null,
-   "stars": 7837,
+   "stars": 7856,
    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3691,7 +3691,7 @@
   {
    "repo_full_name": "irinabuht12-oss/marketing-skills",
    "path": null,
-   "stars": 6709,
+   "stars": 6751,
    "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
    "kind": "domain",
    "security_grade": "safe",
@@ -3701,7 +3701,7 @@
   {
    "repo_full_name": "gamedev-skills/awesome-gamedev-agent-skills",
    "path": null,
-   "stars": 6573,
+   "stars": 6680,
    "description": "77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3711,7 +3711,7 @@
   {
    "repo_full_name": "czlonkowski/n8n-skills",
    "path": null,
-   "stars": 6572,
+   "stars": 6580,
    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
    "kind": "domain",
    "security_grade": "safe",
@@ -3721,7 +3721,7 @@
   {
    "repo_full_name": "eternityspring/shuohao-skills",
    "path": null,
-   "stars": 5892,
+   "stars": 5955,
    "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3731,7 +3731,7 @@
   {
    "repo_full_name": "zLanqing/codex-claude-academic-skills",
    "path": null,
-   "stars": 5589,
+   "stars": 5624,
    "description": "本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/Python 科学计算与期刊级图表生成。三个 Skill 专为中文科研用户设计，可在 Claude Code 和 codex 中一键调用。",
    "kind": "domain",
    "security_grade": "safe",
@@ -3741,7 +3741,7 @@
   {
    "repo_full_name": "sergebulaev/linkedin-skills",
    "path": null,
-   "stars": 5506,
+   "stars": 5544,
    "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3751,7 +3751,7 @@
   {
    "repo_full_name": "elementalsouls/Claude-BugHunter",
    "path": null,
-   "stars": 5386,
+   "stars": 5408,
    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3761,7 +3761,7 @@
   {
    "repo_full_name": "ScrapeCreators/social-media-research-skills",
    "path": null,
-   "stars": 5313,
+   "stars": 5369,
    "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3771,7 +3771,7 @@
   {
    "repo_full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
    "path": null,
-   "stars": 4888,
+   "stars": 4912,
    "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3781,7 +3781,7 @@
   {
    "repo_full_name": "Jakeschincariol/instagram-agent-skill",
    "path": null,
-   "stars": 4471,
+   "stars": 4617,
    "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3791,7 +3791,7 @@
   {
    "repo_full_name": "Jakeschincariol/youtube-agent-skill",
    "path": null,
-   "stars": 4281,
+   "stars": 4394,
    "description": "Eleven Claude skills that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list from your transcript, a retention reader that finds where viewers actually leave, a Shorts cutter, and a virality engine. Free, MIT.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3801,7 +3801,7 @@
   {
    "repo_full_name": "nowork-studio/notfair-plugin",
    "path": null,
-   "stars": 4095,
+   "stars": 4098,
    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3811,7 +3811,7 @@
   {
    "repo_full_name": "plannotator/effective-html",
    "path": null,
-   "stars": 3818,
+   "stars": 3826,
    "description": "Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3821,7 +3821,7 @@
   {
    "repo_full_name": "ericosiu/ai-marketing-skills",
    "path": null,
-   "stars": 3768,
+   "stars": 3772,
    "description": "Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
    "kind": "domain",
    "security_grade": "safe",
@@ -3831,7 +3831,7 @@
   {
    "repo_full_name": "zenstory-ai/drama-skills",
    "path": null,
-   "stars": 3677,
+   "stars": 3729,
    "description": "开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video prompts, review. MIT.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3841,7 +3841,7 @@
   {
    "repo_full_name": "ljagiello/ctf-skills",
    "path": null,
-   "stars": 3607,
+   "stars": 3614,
    "description": "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more",
    "kind": "domain",
    "security_grade": "safe",
@@ -3851,7 +3851,7 @@
   {
    "repo_full_name": "tradermonty/claude-trading-skills",
    "path": null,
-   "stars": 3552,
+   "stars": 3575,
    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3861,7 +3861,7 @@
   {
    "repo_full_name": "jherrodthomas/automotive-skills-suite",
    "path": null,
-   "stars": 3330,
+   "stars": 3333,
    "description": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3871,7 +3871,7 @@
   {
    "repo_full_name": "vuejs-ai/skills",
    "path": null,
-   "stars": 3239,
+   "stars": 3243,
    "description": "Agent skills for Vue 3 development",
    "kind": "domain",
    "security_grade": "safe",
@@ -3879,19 +3879,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "RKiding/Awesome-finance-skills",
-   "path": null,
-   "stars": 3096,
-   "description": "A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "Jakeschincariol/linkedin-agent-skill",
    "path": null,
-   "stars": 3063,
+   "stars": 3131,
    "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3899,9 +3889,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "RKiding/Awesome-finance-skills",
+   "path": null,
+   "stars": 3097,
+   "description": "A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "elementalsouls/Claude-OSINT",
    "path": null,
-   "stars": 2951,
+   "stars": 2961,
    "description": "8 Claude skills · 100+ recon capabilities · 80 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · ~10,000 lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3911,7 +3911,7 @@
   {
    "repo_full_name": "AlphaGBM/skills",
    "path": null,
-   "stars": 2856,
+   "stars": 2867,
    "description": "Bring realtime market data and research workflows into Claude Code, Cursor & beyond — 29 open-source Skills for stocks, options and commodities.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3921,7 +3921,7 @@
   {
    "repo_full_name": "zubair-trabzada/ai-marketing-claude",
    "path": null,
-   "stars": 2850,
+   "stars": 2852,
    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3941,7 +3941,7 @@
   {
    "repo_full_name": "majidmanzarpour/threejs-game-skills",
    "path": null,
-   "stars": 2671,
+   "stars": 2673,
    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3951,8 +3951,8 @@
   {
    "repo_full_name": "AgriciDaniel/claude-blog",
    "path": null,
-   "stars": 2616,
-   "description": "Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog (AI Marketing Hub Pro community); public releases ship here.",
+   "stars": 2633,
+   "description": "Free, open source blog writer for Claude Code. Researches current sources, writes answer-first posts for Google and AI answers, has an independent reviewer score each one out of 100 and ships only after five delivery gates. 32 skills, 30 /blog commands, 5 agents. Active development at AI-Marketing-Hub/claude-blog; public releases ship here.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
@@ -3961,7 +3961,7 @@
   {
    "repo_full_name": "0xSteph/pentest-ai-agents",
    "path": null,
-   "stars": 2400,
+   "stars": 2406,
    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3971,7 +3971,7 @@
   {
    "repo_full_name": "Jakeschincariol/founder-skill",
    "path": null,
-   "stars": 2350,
+   "stars": 2397,
    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
    "kind": "domain",
    "security_grade": "safe",
@@ -3981,7 +3981,7 @@
   {
    "repo_full_name": "P4nda0s/reverse-skills",
    "path": null,
-   "stars": 2343,
+   "stars": 2346,
    "description": "Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件",
    "kind": "domain",
    "security_grade": "safe",
@@ -3991,7 +3991,7 @@
   {
    "repo_full_name": "appeeky/aso-skills",
    "path": null,
-   "stars": 2247,
+   "stars": 2251,
    "description": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4001,7 +4001,7 @@
   {
    "repo_full_name": "aipoch/medical-research-skills",
    "path": null,
-   "stars": 2026,
+   "stars": 2031,
    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4011,7 +4011,7 @@
   {
    "repo_full_name": "jtydhr88/screenwriting-skills",
    "path": null,
-   "stars": 1933,
+   "stars": 1950,
    "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
    "kind": "domain",
    "security_grade": "safe",
@@ -4021,7 +4021,7 @@
   {
    "repo_full_name": "maxrave-dev/kotlin-footguns",
    "path": null,
-   "stars": 1880,
+   "stars": 1916,
    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4031,7 +4031,7 @@
   {
    "repo_full_name": "zubair-trabzada/ai-legal-claude",
    "path": null,
-   "stars": 1813,
+   "stars": 1816,
    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community",
    "kind": "domain",
    "security_grade": "safe",
@@ -4041,7 +4041,7 @@
   {
    "repo_full_name": "SpaceZephyr/creator-buddy",
    "path": null,
-   "stars": 1792,
+   "stars": 1799,
    "description": "Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and viral trend research",
    "kind": "domain",
    "security_grade": "safe",
@@ -4051,7 +4051,7 @@
   {
    "repo_full_name": "callstackincubator/agent-skills",
    "path": null,
-   "stars": 1696,
+   "stars": 1698,
    "description": "A collection of agent-optimized React Native skills for AI coding assistants.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4061,7 +4061,7 @@
   {
    "repo_full_name": "mrpaidsocial/arcads-claude-code-mrpaidsocial",
    "path": null,
-   "stars": 1643,
+   "stars": 1647,
    "description": "Arcads external API: agent skills, prompting library, and Cursor/Claude workspace",
    "kind": "domain",
    "security_grade": "unknown",
@@ -4071,7 +4071,7 @@
   {
    "repo_full_name": "zubair-trabzada/ai-sales-team-claude",
    "path": null,
-   "stars": 1500,
+   "stars": 1503,
    "description": "AI-powered sales team for Claude Code. Research prospects, qualify leads (BANT + MEDDIC), find decision makers, generate outreach sequences, prepare for meetings, write proposals, and produce PDF pipeline reports — 14 skills, 5 parallel agents.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4081,7 +4081,7 @@
   {
    "repo_full_name": "RefoundAI/lenny-skills",
    "path": null,
-   "stars": 1458,
+   "stars": 1460,
    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4091,7 +4091,7 @@
   {
    "repo_full_name": "zsyggg/paper-craft-skills",
    "path": null,
-   "stars": 1433,
+   "stars": 1440,
    "description": "Claude Code skills for academic papers: deep analysis, comics, summaries | 论文工艺：深度解读、漫画生成、速览总结",
    "kind": "domain",
    "security_grade": "safe",
@@ -4099,19 +4099,9 @@
    "license": null
   },
   {
-   "repo_full_name": "utkusen/sast-skills",
-   "path": null,
-   "stars": 1357,
-   "description": "Collection of agent skills to find vulnerabilities inside your web/mobile apps.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "brycewang-stanford/Awesome-Journal-Skills",
    "path": null,
-   "stars": 1352,
+   "stars": 1358,
    "description": "Journal-specific Claude Code/Codex skill packs covering mainstream journals — AER, QJE, Nature, Cell, 管理世界, 经济研究 & 200+ more — your fast track to getting published. ｜ 覆盖主流期刊的 Claude Code/Codex 期刊技能包，从选题、识别策略到表格规范与审稿回复全流程，助你快速发论文。",
    "kind": "domain",
    "security_grade": "safe",
@@ -4119,9 +4109,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "utkusen/sast-skills",
+   "path": null,
+   "stars": 1356,
+   "description": "Collection of agent skills to find vulnerabilities inside your web/mobile apps.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "onvoyage-ai/gtm-engineer-skills",
    "path": null,
-   "stars": 1350,
+   "stars": 1353,
    "description": "Claude Code skill for improving website AEO (AI Engine Optimization) and GEO (Generative Engine Optimization) scores — 16 foundational checks, 6 intelligence dimensions, framework-specific fixes",
    "kind": "domain",
    "security_grade": "safe",
@@ -4131,7 +4131,7 @@
   {
    "repo_full_name": "dpearson2699/swift-ios-skills",
    "path": null,
-   "stars": 1267,
+   "stars": 1270,
    "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
    "kind": "domain",
    "security_grade": "safe",
@@ -4141,7 +4141,7 @@
   {
    "repo_full_name": "ferdinandobons/startup-skill",
    "path": null,
-   "stars": 1252,
+   "stars": 1253,
    "description": "AI agent skills for startup validation, competitive intelligence, and planning",
    "kind": "domain",
    "security_grade": "safe",
@@ -4151,7 +4151,7 @@
   {
    "repo_full_name": "Aaronontheweb/dotnet-skills",
    "path": null,
-   "stars": 1245,
+   "stars": 1246,
    "description": "Claude Code skills and sub-agents for .NET Developers",
    "kind": "domain",
    "security_grade": "safe",
@@ -4161,7 +4161,7 @@
   {
    "repo_full_name": "CharlesWiltgen/Axiom",
    "path": null,
-   "stars": 1242,
+   "stars": 1243,
    "description": "Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development",
    "kind": "domain",
    "security_grade": "safe",
@@ -4171,7 +4171,7 @@
   {
    "repo_full_name": "freshtechbro/claudedesignskills",
    "path": null,
-   "stars": 1216,
+   "stars": 1223,
    "description": "A comprehensive collection of Claude Code skills for modern web development, specializing in 3D graphics, animation, and interactive web experiences.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4201,7 +4201,7 @@
   {
    "repo_full_name": "data-goblin/power-bi-agentic-development",
    "path": null,
-   "stars": 1080,
+   "stars": 1084,
    "description": "Power BI AI skills and Power BI agents for Claude Code and GitHub Copilot: a plugin marketplace of Power BI skills, subagents, and hooks for semantic models, DAX, TMDL, reports, and AI dashboards. Includes Microsoft Fabric skills and Fabric agents. Weekly updates.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4209,19 +4209,9 @@
    "license": "GPL-3.0"
   },
   {
-   "repo_full_name": "kostja94/marketing-skills",
-   "path": null,
-   "stars": 1073,
-   "description": "Agent Skills for Marketing — SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw — no lock-in.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "zhnnky329/MathModeling-skills",
    "path": null,
-   "stars": 1073,
+   "stars": 1078,
    "description": "面向数学建模竞赛的 Claude Code / Codex Skills ，支持分阶段建模流程与 Python、MATLAB/北太天元代码分支。",
    "kind": "domain",
    "security_grade": "safe",
@@ -4229,9 +4219,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "kostja94/marketing-skills",
+   "path": null,
+   "stars": 1075,
+   "description": "Agent Skills for Marketing — SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw — no lock-in.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "cookjohn/cnki-skills",
    "path": null,
-   "stars": 1034,
+   "stars": 1039,
    "description": "CNKI (中国知网) skills for Claude Code — search, browse journals, download PDFs, export to Zotero via Chrome DevTools MCP",
    "kind": "domain",
    "security_grade": "safe",
@@ -4239,24 +4239,24 @@
    "license": null
   },
   {
-   "repo_full_name": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
-   "path": null,
-   "stars": 1031,
-   "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, CCPA/CPRA, and others. Benchmark 89% (with skills) vs 55% (without skills). Updated Monthly.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Barty-Bart/motion-graphics",
    "path": null,
-   "stars": 1009,
+   "stars": 1034,
    "description": "Motion-graphics skills for Claude Code and Codex.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "HTML",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
+   "path": null,
+   "stars": 1034,
+   "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, CCPA/CPRA, and others. Benchmark 89% (with skills) vs 55% (without skills). Updated Monthly.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
   },
   {
    "repo_full_name": "new-silvermoon/awesome-android-agent-skills",
@@ -4271,7 +4271,7 @@
   {
    "repo_full_name": "zenstory-ai/novel-to-game",
    "path": null,
-   "stars": 956,
+   "stars": 961,
    "description": "Agent skills for source-grounded novel-to-game adaptation (小说改编游戏 / story to game): cited design docs, target-runtime builds, evidence-based QA. Three playable browser examples. For Claude Code, Codex, and Kimi Code.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4281,7 +4281,7 @@
   {
    "repo_full_name": "GarethManning/education-agent-skills",
    "path": null,
-   "stars": 942,
+   "stars": 943,
    "description": "165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum, assessment and regeneration. Claude, Codex and Hermes.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4291,7 +4291,7 @@
   {
    "repo_full_name": "jame581/GodotPrompter",
    "path": null,
-   "stars": 920,
+   "stars": 923,
    "description": "Agentic skills framework for Godot 4.x. Domain-specific skills for AI coding agents (Claude Code, Copilot, Antigravity, Cursor)",
    "kind": "domain",
    "security_grade": "safe",
@@ -4311,7 +4311,7 @@
   {
    "repo_full_name": "luwill/research-skills",
    "path": null,
-   "stars": 878,
+   "stars": 880,
    "description": "Some commonly used research experiences and processes are encapsulated into Agent skills.",
    "kind": "domain",
    "security_grade": "caution",
@@ -4321,7 +4321,7 @@
   {
    "repo_full_name": "borski/travel-hacking-toolkit",
    "path": null,
-   "stars": 852,
+   "stars": 872,
    "description": "AI-powered travel hacking and search with cash, points, miles, and award flights. Drop-in skills and MCP servers for Claude, Codex, and OpenCode.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4331,7 +4331,7 @@
   {
    "repo_full_name": "rshankras/claude-code-apple-skills",
    "path": null,
-   "stars": 849,
+   "stars": 855,
    "description": "Claude Code skills for Apple platform development (iOS, macOS, iPadOS) — product validation, code generation, App Store optimization, and more",
    "kind": "domain",
    "security_grade": "safe",
@@ -4349,19 +4349,9 @@
    "license": null
   },
   {
-   "repo_full_name": "nexscope-ai/Amazon-Skills",
-   "path": null,
-   "stars": 829,
-   "description": "Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "arnabbagxd/Brand-building-skills",
    "path": null,
-   "stars": 828,
+   "stars": 833,
    "description": "Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch",
    "kind": "domain",
    "security_grade": "safe",
@@ -4369,9 +4359,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "nexscope-ai/Amazon-Skills",
+   "path": null,
+   "stars": 830,
+   "description": "Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "MicrosoftDocs/Agent-Skills",
    "path": null,
-   "stars": 804,
+   "stars": 805,
    "description": "Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4381,7 +4381,7 @@
   {
    "repo_full_name": "growthenginenowoslawski/coldoutboundskills",
    "path": null,
-   "stars": 798,
+   "stars": 799,
    "description": "Open-source Claude Code skills for cold email and outbound sales. Grade campaigns, export Prospeo searches, scrape Google Maps — all from Claude Code.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4421,7 +4421,7 @@
   {
    "repo_full_name": "emotixco/claude-skills-founder",
    "path": null,
-   "stars": 771,
+   "stars": 774,
    "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
    "kind": "domain",
    "security_grade": "safe",
@@ -4431,7 +4431,7 @@
   {
    "repo_full_name": "realkimbarrett/advertising-skills",
    "path": null,
-   "stars": 770,
+   "stars": 772,
    "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4441,7 +4441,7 @@
   {
    "repo_full_name": "Affitor/affiliate-skills",
    "path": null,
-   "stars": 757,
+   "stars": 761,
    "description": "50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, build landing pages, deploy — full flywheel with social intelligence. Works with Claude Code, Pi, ChatGPT, Gemini, Cursor, Windsurf, any AI.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4451,7 +4451,7 @@
   {
    "repo_full_name": "Nikolay-Shirokov/cc-1c-skills",
    "path": null,
-   "stars": 750,
+   "stars": 754,
    "description": "Набор навыков для AI(ИИ)-агентов (Claude Code, Cursor, Codex и др.), помогающий охватить полный цикл разработки на платформе 1С:Предприятие 8.3. Даёт модели абстракции над XML-форматами и CLI конфигуратора, а также глаза и руки для тестирования через веб-клиент. AI skills for 1C:Enterprise 8.3.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4471,7 +4471,7 @@
   {
    "repo_full_name": "OpenClaudia/openclaudia-skills",
    "path": null,
-   "stars": 725,
+   "stars": 727,
    "description": "77 open-source marketing skills for Claude Code, Codex, and other AI coding agents. SEO, content, email, ads, analytics, and growth.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4479,9 +4479,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "sergebulaev/instagram-skills",
+   "path": null,
+   "stars": 725,
+   "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "aiworkskills/wechat-article-skills",
    "path": null,
-   "stars": 722,
+   "stars": 724,
    "description": "微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex",
    "kind": "domain",
    "security_grade": "safe",
@@ -4499,19 +4509,9 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "sergebulaev/instagram-skills",
-   "path": null,
-   "stars": 708,
-   "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Illyism/seo-skills",
    "path": null,
-   "stars": 699,
+   "stars": 700,
    "description": "SEO skills for Claude Code, Cursor and Codex: SEO autopilot, title tags, blog refreshes, backlinks, customer journeys, video transcripts and copywriting.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4521,7 +4521,7 @@
   {
    "repo_full_name": "Ar9av/PaperOrchestra",
    "path": null,
-   "stars": 696,
+   "stars": 697,
    "description": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity, Cline, Aider). No API keys, no LLM SDKs.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4531,7 +4531,7 @@
   {
    "repo_full_name": "fayazara/macos-app-skills",
    "path": null,
-   "stars": 689,
+   "stars": 690,
    "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
    "kind": "domain",
    "security_grade": "safe",
@@ -4551,7 +4551,7 @@
   {
    "repo_full_name": "Boom5426/Nature-Paper-Skills",
    "path": null,
-   "stars": 651,
+   "stars": 654,
    "description": "An AI-powered Scientific Writing Workflow: Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4571,7 +4571,7 @@
   {
    "repo_full_name": "bitwize-music-studio/claude-ai-music-skills",
    "path": null,
-   "stars": 619,
+   "stars": 623,
    "description": "Human + AI music production workflow for Suno - skills, templates, and tools",
    "kind": "domain",
    "security_grade": "safe",
@@ -4591,7 +4591,7 @@
   {
    "repo_full_name": "unifapi-agent/skills",
    "path": null,
-   "stars": 607,
+   "stars": 608,
    "description": "Open-source marketing agents for Claude, ChatGPT, Codex, OpenClaw & Hermes. One plugin: SEO audits, GEO / AI-visibility, local SEO, KOL pricing, social listening & competitive intelligence from read-only public data over MCP.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4639,19 +4639,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "haowjy/creative-writing-skills",
-   "path": null,
-   "stars": 558,
-   "description": "claude skills focused on creative writing",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "WenyuChiou/ai-research-skills",
    "path": null,
-   "stars": 545,
+   "stars": 566,
    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw, and generic AI clients.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4659,19 +4649,19 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "cookjohn/gs-skills",
+   "repo_full_name": "haowjy/creative-writing-skills",
    "path": null,
-   "stars": 542,
-   "description": "Google Scholar skills for Claude Code — search, citation tracking, full-text access, and Zotero export via Chrome DevTools MCP",
+   "stars": 561,
+   "description": "claude skills focused on creative writing",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "Masriyan/Claude-Code-CyberSecurity-Skill",
    "path": null,
-   "stars": 541,
+   "stars": 543,
    "description": "22 production-quality Claude Code Skills for cybersecurity professionals , covering offensive security, defensive operations, reverse engineering, threat hunting, threat intelligence, purple team / adversary emulation, CSOC automation, AI/LLM security, mobile, OT/ICS, GRC, software supply chain security, and more. ",
    "kind": "domain",
    "security_grade": "safe",
@@ -4679,9 +4669,19 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "cookjohn/gs-skills",
+   "path": null,
+   "stars": 543,
+   "description": "Google Scholar skills for Claude Code — search, citation tracking, full-text access, and Zotero export via Chrome DevTools MCP",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "charlie947/motion-graphics-skills",
    "path": null,
-   "stars": 526,
+   "stars": 535,
    "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4691,7 +4691,7 @@
   {
    "repo_full_name": "claesbackman/AI-research-feedback",
    "path": null,
-   "stars": 526,
+   "stars": 527,
    "description": "A collection of Claude Code skills for academic research review. These tools were developed by Claes Bäckman.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4711,7 +4711,7 @@
   {
    "repo_full_name": "vivy-yi/xiaohongshu-skills",
    "path": null,
-   "stars": 521,
+   "stars": 524,
    "description": "139个完整的小红书运营技能 - Claude Code 技能插件系统。覆盖内容创作、账号运营、互动运营、数据分析、电商转化、平台规则、工具生态、营销推广、增长策略9大分类。",
    "kind": "domain",
    "security_grade": "safe",
@@ -4721,7 +4721,7 @@
   {
    "repo_full_name": "nimrodfisher/data-analytics-skills",
    "path": null,
-   "stars": 513,
+   "stars": 514,
    "description": "A comprehensive list of Claude & Codex skills for a wide range of data analytics tasks",
    "kind": "domain",
    "security_grade": "safe",
@@ -4741,7 +4741,7 @@
   {
    "repo_full_name": "lzwme/finance-quant-skills",
    "path": null,
-   "stars": 472,
+   "stars": 473,
    "description": "一个面向金融量化交易领域的 Agent Skills 技能维护仓库，主要聚焦A股量化交易。",
    "kind": "domain",
    "security_grade": "safe",
@@ -4751,7 +4751,7 @@
   {
    "repo_full_name": "AKCodez/higgsfield-claude-skills",
    "path": null,
-   "stars": 463,
+   "stars": 464,
    "description": "19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation",
    "kind": "domain",
    "security_grade": "safe",
@@ -4789,19 +4789,9 @@
    "license": "NOASSERTION"
   },
   {
-   "repo_full_name": "BrianRWagner/ai-marketing-claude-code-skills",
-   "path": null,
-   "stars": 450,
-   "description": "Marketing frameworks that AI actually executes. Designed for Claude Code, but could be used for OpenClaw, etc. ",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": null
-  },
-  {
    "repo_full_name": "rediumvex/ai-video-generator-claude",
    "path": null,
-   "stars": 449,
+   "stars": 452,
    "description": "10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfield. Viral hooks, SaaS demos, personal brand, faceless content, luxury aesthetic & more.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4809,9 +4799,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "BrianRWagner/ai-marketing-claude-code-skills",
+   "path": null,
+   "stars": 451,
+   "description": "Marketing frameworks that AI actually executes. Designed for Claude Code, but could be used for OpenClaw, etc. ",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": null
+  },
+  {
    "repo_full_name": "fcakyon/phd-skills",
    "path": null,
-   "stars": 448,
+   "stars": 449,
    "description": "PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more.",
    "kind": "domain",
    "security_grade": "safe",
@@ -4829,6 +4829,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "tuzhechen2005/opus-video-skills",
+   "path": null,
+   "stars": 431,
+   "description": "Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "GRCEngClub/claude-grc-engineering",
    "path": null,
    "stars": 430,
@@ -4841,7 +4851,7 @@
   {
    "repo_full_name": "BZDmathclub/bzd-math-modeling-skills",
    "path": null,
-   "stars": 428,
+   "stars": 429,
    "description": "数学建模竞赛论文智能评审 Skill，支持 Codex 与 Claude Code，使用近五年国赛评阅细则、评分要点、评分概述等文件以及对应赛题进行蒸馏，并将真正在主观评审中涉及到的各种因素考虑在内，较为完备的复刻完整的评审流程，以便大家能够对自己的论文有较好的定位。",
    "kind": "domain",
    "security_grade": "safe",
@@ -4857,16 +4867,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "tuzhechen2005/opus-video-skills",
-   "path": null,
-   "stars": 423,
-   "description": "Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "waynesutton/builder-skills",
@@ -4899,19 +4899,9 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "jaechang-hits/SciAgent-Skills",
-   "path": null,
-   "stars": 384,
-   "description": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
    "repo_full_name": "datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
    "path": null,
-   "stars": 383,
+   "stars": 386,
    "description": "221 AI skills for construction: BIM analysis, cost estimation, scheduling, document control, and automation with Claude Code",
    "kind": "domain",
    "security_grade": "safe",
@@ -4919,9 +4909,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "jaechang-hits/SciAgent-Skills",
+   "path": null,
+   "stars": 385,
+   "description": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "inhouseseo/superseo-skills",
    "path": null,
-   "stars": 378,
+   "stars": 380,
    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
    "kind": "domain",
    "security_grade": "safe",
@@ -4939,6 +4939,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Aperivue/medsci-skills",
+   "path": null,
+   "stars": 364,
+   "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "mysticaltech/marketingskills",
    "path": null,
    "stars": 364,
@@ -4949,24 +4959,24 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Aperivue/medsci-skills",
-   "path": null,
-   "stars": 362,
-   "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "superagents-lab/xcode27-skills",
    "path": null,
-   "stars": 356,
+   "stars": 358,
    "description": "Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "Ootto-AI/claude-content-skills",
+   "path": null,
+   "stars": 354,
+   "description": "Free, copy-paste Claude skills that run your content growth factory — turn ideas + your NotebookLM memory into scroll-stopping Instagram reels. By Ootto.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "explorium-ai/gtm-skills",
@@ -4981,21 +4991,11 @@
   {
    "repo_full_name": "Prisma-Labs-Dev/apple-skills",
    "path": null,
-   "stars": 352,
+   "stars": 353,
    "description": "Apple development skills for Claude Code and Codex — latest iOS 26+ APIs, SwiftUI, Liquid Glass, and more",
    "kind": "domain",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "Ootto-AI/claude-content-skills",
-   "path": null,
-   "stars": 346,
-   "description": "Free, copy-paste Claude skills that run your content growth factory — turn ideas + your NotebookLM memory into scroll-stopping Instagram reels. By Ootto.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -5009,6 +5009,26 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "YANZHANLIN/ielts-claude-skills",
+   "path": null,
+   "stars": 333,
+   "description": "雅思备考 AI 教练 Claude Code skills · 4 个无状态 skill · 写作/阅读/口语训练",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "AIDevGTM/gtm-cofounder",
+   "path": null,
+   "stars": 332,
+   "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "JDArmy/Evasion-SubAgents",
    "path": null,
    "stars": 332,
@@ -5019,29 +5039,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "YANZHANLIN/ielts-claude-skills",
-   "path": null,
-   "stars": 332,
-   "description": "雅思备考 AI 教练 Claude Code skills · 4 个无状态 skill · 写作/阅读/口语训练",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "AIDevGTM/gtm-cofounder",
-   "path": null,
-   "stars": 331,
-   "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "akin-ozer/cc-devops-skills",
    "path": null,
-   "stars": 331,
+   "stars": 332,
    "description": "DevOps skills for Claude Code and Codex.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5051,7 +5051,7 @@
   {
    "repo_full_name": "sweetcornna/mathodology",
    "path": null,
-   "stars": 318,
+   "stars": 319,
    "description": "专为数学建模竞赛设计的数模 Agent Skills：MCM/ICM 美赛、CUMCM 国赛、华数杯、M3、HiMCM 等，面向 Claude Code 与 Codex 的获奖级建模工作流。Math modeling contest skills for Claude Code & Codex.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5061,7 +5061,7 @@
   {
    "repo_full_name": "jtydhr88/comfyui-custom-node-skills",
    "path": null,
-   "stars": 314,
+   "stars": 316,
    "description": "A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5071,7 +5071,7 @@
   {
    "repo_full_name": "Cold-IQ/ColdIQ-s-GTM-Skills",
    "path": null,
-   "stars": 313,
+   "stars": 314,
    "description": "Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.    ",
    "kind": "domain",
    "security_grade": "safe",
@@ -5081,7 +5081,7 @@
   {
    "repo_full_name": "tommyjepsen/awesome-ux-skills",
    "path": null,
-   "stars": 299,
+   "stars": 300,
    "description": "UX & AI Product designs skills for Claude, Codex etc.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5091,8 +5091,18 @@
   {
    "repo_full_name": "naodeng/awesome-qa-skills",
    "path": null,
-   "stars": 293,
+   "stars": 295,
    "description": "Bilingual Agent Skills for software testing and QA workflows from requirements through release. Independently installable for Codex, Claude Code, Cursor, and compatible coding agents. Licensed under PolyForm Noncommercial 1.0.0.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "ivangfalco/ads-skills",
+   "path": null,
+   "stars": 290,
+   "description": "Ivan Falco's Ads Skills for Claude Code - LinkedIn, Meta, and Google Ads. 40+ strategy files, 39 API scripts. Built by the Head of Growth at ColdIQ.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
@@ -5109,29 +5119,9 @@
    "license": null
   },
   {
-   "repo_full_name": "ivangfalco/ads-skills",
-   "path": null,
-   "stars": 288,
-   "description": "Ivan Falco's Ads Skills for Claude Code - LinkedIn, Meta, and Google Ads. 40+ strategy files, 39 API scripts. Built by the Head of Growth at ColdIQ.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "intertwine/dspy-agent-skills",
-   "path": null,
-   "stars": 278,
-   "description": "Production-grade DSPy 3.2.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA, BetterTogether, and RLM.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "mirzaaghazadeh/iphone-duo-skills",
    "path": null,
-   "stars": 275,
+   "stars": 281,
    "description": "Agent skills for building iOS apps on iPhone Duo, Apple's first foldable iPhone — adaptive layout, vertical bars, hinge & scenes, camera, and design review.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5141,8 +5131,18 @@
   {
    "repo_full_name": "galleonlabs/hypergrok-trading-desk",
    "path": null,
-   "stars": 273,
+   "stars": 280,
    "description": "Hyperliquid trading desk for AI agents: 7 roles, 17 skills and keyless market tools. Research first; execution requires your API wallet and approved tickets. Grok Bot, Claude Code, Cursor, Codex, Gemini CLI and Grok Build.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "intertwine/dspy-agent-skills",
+   "path": null,
+   "stars": 278,
+   "description": "Production-grade DSPy 3.2.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA, BetterTogether, and RLM.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
@@ -5161,7 +5161,7 @@
   {
    "repo_full_name": "stevenflanagan1/social-ai-team",
    "path": null,
-   "stars": 267,
+   "stars": 268,
    "description": "Claude Code skills for social media — a complete AI social team for SMBs. Brand setup, content calendar, captions, creative, and performance review.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5191,7 +5191,7 @@
   {
    "repo_full_name": "kangarooking/director-skills",
    "path": null,
-   "stars": 257,
+   "stars": 258,
    "description": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5241,7 +5241,7 @@
   {
    "repo_full_name": "zach22-1999/amazon-skills",
    "path": null,
-   "stars": 248,
+   "stars": 249,
    "description": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. 亚马逊跨境电商 Skills。",
    "kind": "domain",
    "security_grade": "safe",
@@ -5251,7 +5251,7 @@
   {
    "repo_full_name": "LLMQuant/skills",
    "path": null,
-   "stars": 241,
+   "stars": 242,
    "description": "Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounded in LLMQuant Data",
    "kind": "domain",
    "security_grade": "safe",
@@ -5261,7 +5261,7 @@
   {
    "repo_full_name": "social-media-skills/skills",
    "path": null,
-   "stars": 238,
+   "stars": 240,
    "description": "106 social media skills for AI agents - strategy, writing, video, design, platform growth, publishing, and analytics. Works with Claude, Cursor, OpenClaw, Hermes & 40+ agents.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5351,12 +5351,22 @@
   {
    "repo_full_name": "KarlRaf/gtm-starter-kit",
    "path": null,
-   "stars": 214,
+   "stars": 215,
    "description": "A Claude Code repository for GTM teams. Context templates, skills, workflows, and a fully built-out example — fork it, fill in your context, and run AI-powered GTM tasks from a single prompt.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "ab604/claude-code-r-skills",
+   "path": null,
+   "stars": 212,
+   "description": "Claude Code configurations for R development.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "murphytrueman/design-system-ops",
@@ -5377,16 +5387,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": null
-  },
-  {
-   "repo_full_name": "ab604/claude-code-r-skills",
-   "path": null,
-   "stars": 211,
-   "description": "Claude Code configurations for R development.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "dariushoule/x64dbg-skills",
@@ -5441,7 +5441,7 @@
   {
    "repo_full_name": "rohasnagpal/legal-ai-skills",
    "path": null,
-   "stars": 198,
+   "stars": 199,
    "description": "Set Up an AI-Powered Full-Service Law Firm in 90 Seconds",
    "kind": "domain",
    "security_grade": "safe",
@@ -5451,7 +5451,7 @@
   {
    "repo_full_name": "jtydhr88/music-composition-skills",
    "path": null,
-   "stars": 194,
+   "stars": 195,
    "description": "Professional agent skills for composing and arranging popular music",
    "kind": "domain",
    "security_grade": "safe",
@@ -5461,11 +5461,21 @@
   {
    "repo_full_name": "seranking/seo-skills",
    "path": null,
-   "stars": 194,
+   "stars": 195,
    "description": "Claude SEO Skills — production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voice, audits, backlink gaps, keyword clusters, schema, sitemap, GEO, and more.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "iart-ai/motion-design-skills",
+   "path": null,
+   "stars": 194,
+   "description": "Motion design fundamentals, engines, and brand elements as installable Claude Code skills — timing, typography, color, composition, After Effects, Remotion, logos, and backgrounds.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "HTML",
    "license": "MIT"
   },
   {
@@ -5481,7 +5491,7 @@
   {
    "repo_full_name": "N1arko/redaktura-skills",
    "path": null,
-   "stars": 188,
+   "stars": 189,
    "description": "Agent Skills for Russian editing, writing, editorial policy, promo copy, posts, and UX copy.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5491,22 +5501,12 @@
   {
    "repo_full_name": "cxuu/golang-skills",
    "path": null,
-   "stars": 188,
+   "stars": 189,
    "description": "AI Agent Skills for idiomatic, production-ready Go code, distilled from Google, Uber, Community",
    "kind": "domain",
    "security_grade": "safe",
    "language": "HTML",
    "license": "Apache-2.0"
-  },
-  {
-   "repo_full_name": "iart-ai/motion-design-skills",
-   "path": null,
-   "stars": 187,
-   "description": "Motion design fundamentals, engines, and brand elements as installable Claude Code skills — timing, typography, color, composition, After Effects, Remotion, logos, and backgrounds.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
   },
   {
    "repo_full_name": "Calix-L/awesome-latex-skills",
@@ -5531,7 +5531,7 @@
   {
    "repo_full_name": "smnandre/symfony-ux-skills",
    "path": null,
-   "stars": 182,
+   "stars": 183,
    "description": "Symfony UX skills for Claude, Gemini, Codex, ... Live Component, Twig Component, Turbo, Stimulus",
    "kind": "domain",
    "security_grade": "safe",
@@ -5599,6 +5599,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "sergebulaev/x-skills",
+   "path": null,
+   "stars": 169,
+   "description": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells, and publish via Publora. Open source, MIT. Content engineering by Creative Content Crafts.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "CodeAlive-AI/ai-driven-development",
    "path": null,
    "stars": 168,
@@ -5617,16 +5627,6 @@
    "security_grade": "safe",
    "language": null,
    "license": null
-  },
-  {
-   "repo_full_name": "sergebulaev/x-skills",
-   "path": null,
-   "stars": 164,
-   "description": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells, and publish via Publora. Open source, MIT. Content engineering by Creative Content Crafts.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "aspi6246/Claude-Code-Skills-for-Academics",
@@ -5649,16 +5649,6 @@
    "license": null
   },
   {
-   "repo_full_name": "SkylarKitchen/skills",
-   "path": null,
-   "stars": 159,
-   "description": "Agent skills for design work: 3D build guides and more.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "bradfeld/ceos",
    "path": null,
    "stars": 159,
@@ -5679,6 +5669,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Infrasity-Labs/dev-gtm-claude-skills",
+   "path": null,
+   "stars": 156,
+   "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companies that want their documentation to be found, parsed, and cited by AI systems.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "chongdashu/vibejam-starter-pack",
    "path": null,
    "stars": 156,
@@ -5687,16 +5687,6 @@
    "security_grade": "safe",
    "language": "HTML",
    "license": null
-  },
-  {
-   "repo_full_name": "Infrasity-Labs/dev-gtm-claude-skills",
-   "path": null,
-   "stars": 155,
-   "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companies that want their documentation to be found, parsed, and cited by AI systems.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "simulink/skills",
@@ -5709,20 +5699,20 @@
    "license": "BSD-3-Clause"
   },
   {
-   "repo_full_name": "forefy/.context",
+   "repo_full_name": "cuic19053-hue/awesome-student-ai-skills",
    "path": null,
    "stars": 153,
-   "description": "AI Agent Skills, Goals and Dynamic Workflows for Security Auditing, Pentesting and Research",
+   "description": "35 个大学生申报书·申请书 AI Skill 集合 | 覆盖大创申报书/挑战杯/互联网+商业计划书/国家奖学金申请书/保研申请材料/三下乡社会实践报告 | 一句话生成规范 Word 文档 | Agent Skills 标准",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "cuic19053-hue/awesome-student-ai-skills",
+   "repo_full_name": "forefy/.context",
    "path": null,
-   "stars": 151,
-   "description": "35 个大学生申报书·申请书 AI Skill 集合 | 覆盖大创申报书/挑战杯/互联网+商业计划书/国家奖学金申请书/保研申请材料/三下乡社会实践报告 | 一句话生成规范 Word 文档 | Agent Skills 标准",
+   "stars": 153,
+   "description": "AI Agent Skills, Goals and Dynamic Workflows for Security Auditing, Pentesting and Research",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
@@ -5759,6 +5749,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "garrettjsmith/localseoskills",
+   "path": null,
+   "stars": 145,
+   "description": "Open-source Claude SEO tool for local search visibility — skills, tool integrations, and automation templates that turn Claude into a Local SEO expert.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "PowerShell",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "probabl-ai/skills",
    "path": null,
    "stars": 145,
@@ -5769,19 +5769,9 @@
    "license": "BSD-3-Clause"
   },
   {
-   "repo_full_name": "garrettjsmith/localseoskills",
-   "path": null,
-   "stars": 144,
-   "description": "Open-source Claude SEO tool for local search visibility — skills, tool integrations, and automation templates that turn Claude into a Local SEO expert.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "PowerShell",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Yila-AI/awesome-research-skills",
    "path": null,
-   "stars": 141,
+   "stars": 142,
    "description": "Open-source Agent Skills for planning, drafting, revising, and polishing SCI/SSCI papers—while preserving evidence, citations, and claim strength.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5791,7 +5781,7 @@
   {
    "repo_full_name": "Miint-Sunny/nai5-prompting",
    "path": null,
-   "stars": 138,
+   "stars": 141,
    "description": "教 AI 写 NovelAI Diffusion V5 提示词的 skill：11 个拆分技能（构思＋写法）为主，另有合并版、单文件版和 4 千字的极简版；Agent Skills 标准封装。",
    "kind": "domain",
    "security_grade": "safe",
@@ -5799,9 +5789,19 @@
    "license": "GPL-3.0"
   },
   {
+   "repo_full_name": "xianyu110/ecommerce-image-skills",
+   "path": null,
+   "stars": 141,
+   "description": "12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "RobLe3/cc-blender-skill",
    "path": null,
-   "stars": 138,
+   "stars": 139,
    "description": "Claude Code skill plugin: drive Blender 5.x like a senior 3D artist via natural language. 10 chain-loadable skills (modeling, materials, lighting, cameras, rendering, animation, export, wireframe-to-3d, pro-workflow). Validated on 6 scene classes.",
    "kind": "domain",
    "security_grade": "safe",
@@ -5815,17 +5815,7 @@
    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
    "kind": "domain",
    "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "xianyu110/ecommerce-image-skills",
-   "path": null,
-   "stars": 137,
-   "description": "12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
+   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -5841,7 +5831,7 @@
   {
    "repo_full_name": "zhaji2333/CkSKILLS",
    "path": null,
-   "stars": 134,
+   "stars": 135,
    "description": "基于 Claude Code / Codex 的 SRC 漏洞挖掘 Agent 技能体系 —— 将顶尖安全研究员的方法论沉淀为可调度、可复用的 Skill 知识资产。",
    "kind": "domain",
    "security_grade": "safe",
@@ -5859,6 +5849,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "ahacker-1/cre-agent-skills",
+   "path": null,
+   "stars": 133,
+   "description": "Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing workflows - standalone prompts for Claude Code, ChatGPT, Cursor, and other LLMs.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "lukasreese/powerbi-claude-skills",
    "path": null,
    "stars": 133,
@@ -5867,16 +5867,6 @@
    "security_grade": "safe",
    "language": null,
    "license": null
-  },
-  {
-   "repo_full_name": "ahacker-1/cre-agent-skills",
-   "path": null,
-   "stars": 132,
-   "description": "Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing workflows - standalone prompts for Claude Code, ChatGPT, Cursor, and other LLMs.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "cookjohn/wos-skills",
@@ -5919,23 +5909,23 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "growthack88/growth-marketing-os",
-   "path": null,
-   "stars": 126,
-   "description": "Growth Marketing OS | Mahmoud Omar — open-source AI marketing prompts, Claude skills, agents & growth playbooks (EN + AR)",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "jtydhr88/lyric-writing-skills",
    "path": null,
-   "stars": 126,
+   "stars": 128,
    "description": "Professional agent skills for writing song lyrics",
    "kind": "domain",
    "security_grade": "safe",
    "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "growthack88/growth-marketing-os",
+   "path": null,
+   "stars": 127,
+   "description": "Growth Marketing OS | Mahmoud Omar — open-source AI marketing prompts, Claude skills, agents & growth playbooks (EN + AR)",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -5947,6 +5937,26 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "abullaisi/upwork-skills",
+   "path": null,
+   "stars": 124,
+   "description": "AI agent skills for Upwork freelancers, from a real Top Rated Plus playbook. Free, open, community-written. Not affiliated with Upwork.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ollygarden/opentelemetry-agent-skills",
+   "path": null,
+   "stars": 124,
+   "description": "Vendor-neutral OpenTelemetry skills for AI coding agents like Claude Code, Cursor, and Codex, grounded in upstream sources",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "rubenzantingh/claude-code-magento-agents",
@@ -5979,16 +5989,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "abullaisi/upwork-skills",
-   "path": null,
-   "stars": 123,
-   "description": "AI agent skills for Upwork freelancers, from a real Top Rated Plus playbook. Free, open, community-written. Not affiliated with Upwork.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "HexRaysSA/claude-marketplace",
    "path": null,
    "stars": 122,
@@ -5997,16 +5997,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "ollygarden/opentelemetry-agent-skills",
-   "path": null,
-   "stars": 122,
-   "description": "Vendor-neutral OpenTelemetry skills for AI coding agents like Claude Code, Cursor, and Codex, grounded in upstream sources",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Go",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "RTFM-IT-Services-LLC/msp-claude-skills",
@@ -6049,6 +6039,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "xianyu110/ecommerce-video-skills",
+   "path": null,
+   "stars": 117,
+   "description": "12 个电商短视频 Agent Skills：3秒钩子、卖点分镜、图生视频提示词、edge-tts 配音、字幕花字、ffmpeg 自动成片、抖音/TikTok Shop/视频号导出、直播切片、多语言配音、封面A/B · Claude Code / Codex / Cursor",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "aakashg/pm-claude-skills",
    "path": null,
    "stars": 116,
@@ -6079,19 +6079,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "xianyu110/ecommerce-video-skills",
-   "path": null,
-   "stars": 113,
-   "description": "12 个电商短视频 Agent Skills：3秒钩子、卖点分镜、图生视频提示词、edge-tts 配音、字幕花字、ffmpeg 自动成片、抖音/TikTok Shop/视频号导出、直播切片、多语言配音、封面A/B · Claude Code / Codex / Cursor",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "cognyai/claude-code-marketing-skills",
    "path": null,
-   "stars": 112,
+   "stars": 113,
    "description": "Marketing skills for Claude Code — SEO audits and implementation, ad analysis, ad optimization. Free skills need no account. $9/mo for live Search Console, Bing & LinkedIn data.",
    "kind": "domain",
    "security_grade": "safe",
@@ -6141,7 +6131,7 @@
   {
    "repo_full_name": "sergebulaev/tiktok-skills",
    "path": null,
-   "stars": 104,
+   "stars": 107,
    "description": "TikTok marketing skills for Claude Code and Codex: 3-second video hooks, captions, trend mapping, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts.",
    "kind": "domain",
    "security_grade": "safe",
@@ -6161,11 +6151,21 @@
   {
    "repo_full_name": "iPlug3/audio-plugin-dev-skills",
    "path": null,
-   "stars": 100,
+   "stars": 101,
    "description": "Claude Code marketplace for audio plugin development skills.",
    "kind": "domain",
    "security_grade": "safe",
    "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "SciMate-AI/HPC-Skills",
+   "path": null,
+   "stars": 98,
+   "description": "Portable agent skills for High Performance Computing workflows across OpenFOAM, SU2, LS-DYNA, FEniCS, CalculiX, ElmerFEM, PETSc, hypre, Trilinos, LAMMPS, GROMACS, Quantum ESPRESSO, VASP, Gaussian, ParaView, and Gmsh, plus MPI, GPU, Spack, reproducible toolchains, and cluster orchestration.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -6187,16 +6187,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
-  },
-  {
-   "repo_full_name": "SciMate-AI/HPC-Skills",
-   "path": null,
-   "stars": 97,
-   "description": "Portable agent skills for High Performance Computing workflows across OpenFOAM, SU2, LS-DYNA, FEniCS, CalculiX, ElmerFEM, PETSc, hypre, Trilinos, LAMMPS, GROMACS, Quantum ESPRESSO, VASP, Gaussian, ParaView, and Gmsh, plus MPI, GPU, Spack, reproducible toolchains, and cluster orchestration.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "hookdeck/webhook-skills",
@@ -6301,7 +6291,7 @@
   {
    "repo_full_name": "mmiani/kotlin-kmp-claude-agent-skills",
    "path": null,
-   "stars": 89,
+   "stars": 90,
    "description": "Public AI agent skills for Kotlin Multiplatform projects, grounded in official Android, Kotlin Multiplatform, Compose, navigation, testing, and modularization guidance.",
    "kind": "domain",
    "security_grade": "safe",
@@ -6359,20 +6349,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Tyche-MKR/scientific-agent-skills",
+   "repo_full_name": "sergebulaev/youtube-skills",
    "path": null,
-   "stars": 84,
-   "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+   "stars": 87,
+   "description": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR titles, SEO descriptions, retention hooks, thumbnails, and a content plan. Publish via Publora. MIT. Content engineering by Creative Content Crafts.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "sergebulaev/youtube-skills",
+   "repo_full_name": "Tyche-MKR/scientific-agent-skills",
    "path": null,
    "stars": 84,
-   "description": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR titles, SEO descriptions, retention hooks, thumbnails, and a content plan. Publish via Publora. MIT. Content engineering by Creative Content Crafts.",
+   "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
@@ -6429,6 +6419,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "MinhLN1234/Claude-Cowork-Game-Studio",
+   "path": null,
+   "stars": 80,
+   "description": "I have just finished customizing a skill set for Claude, designed to enable solo game studio development. The core purpose of these skills is to fix the \"vague brief → 60% quality output → endless back-and-forth\" loop. The environment is built on Claude Projects (using \"Claude Cowork\")",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": null,
+   "license": null
+  },
+  {
    "repo_full_name": "a-pavithraa/springboot-skills-marketplace",
    "path": null,
    "stars": 80,
@@ -6439,20 +6439,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "MinhLN1234/Claude-Cowork-Game-Studio",
-   "path": null,
-   "stars": 79,
-   "description": "I have just finished customizing a skill set for Claude, designed to enable solo game studio development. The core purpose of these skills is to fix the \"vague brief → 60% quality output → endless back-and-forth\" loop. The environment is built on Claude Projects (using \"Claude Cowork\")",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": null,
-   "license": null
-  },
-  {
    "repo_full_name": "fourteenwm/ppc-ai-skills",
    "path": null,
-   "stars": 79,
+   "stars": 80,
    "description": "Collection of free PPC AI skills, ready for use with any AI harness, but built for Claude Code originally.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "sergebulaev/facebook-skills",
+   "path": null,
+   "stars": 80,
+   "description": "Facebook Pages marketing skills for Claude Code and Codex: high-share posts, hooks, engagement replies, and a weekly plan. Publish via Publora. Open source, MIT. Content engineering by Creative Content Crafts.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "Python",
@@ -6461,7 +6461,7 @@
   {
    "repo_full_name": "TomGranot/hubspot-admin-skills",
    "path": null,
-   "stars": 78,
+   "stars": 79,
    "description": "Claude Code skills for auditing, cleaning, enriching, and automating your HubSpot CRM",
    "kind": "domain",
    "security_grade": "safe",
@@ -6475,16 +6475,6 @@
    "description": "Comprehensive Odoo ERP upgrade skill for Claude Code - Automates migrations between Odoo versions 14-19 with pattern detection and fixes",
    "kind": "domain",
    "security_grade": "caution",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "sergebulaev/facebook-skills",
-   "path": null,
-   "stars": 78,
-   "description": "Facebook Pages marketing skills for Claude Code and Codex: high-share posts, hooks, engagement replies, and a weekly plan. Publish via Publora. Open source, MIT. Content engineering by Creative Content Crafts.",
-   "kind": "domain",
-   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -6659,6 +6649,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "catalystbyzoho/agent-skills",
+   "path": null,
+   "stars": 71,
+   "description": "AI agent skills for Catalyst by Zoho — enables Claude, Gemini, Cursor, Copilot, and Windsurf to write deployment-ready Catalyst code, recommend architecture, and manage infrastructure via Zoho MCP.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "kaivyy/perseus",
    "path": null,
    "stars": 71,
@@ -6687,16 +6687,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "catalystbyzoho/agent-skills",
-   "path": null,
-   "stars": 70,
-   "description": "AI agent skills for Catalyst by Zoho — enables Claude, Gemini, Cursor, Copilot, and Windsurf to write deployment-ready Catalyst code, recommend architecture, and manage infrastructure via Zoho MCP.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "scdenney/open-science-skills",
@@ -6799,20 +6789,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "liqianiiii/Awesome-ielts-claude-skills",
+   "repo_full_name": "mastepanoski/claude-skills",
    "path": null,
-   "stars": 63,
-   "description": null,
+   "stars": 64,
+   "description": "UX/UI evaluation, AI governance, and AI security skills for AI coding assistants. Audit interfaces with Nielsen heuristics, WCAG, Don Norman principles. Assess AI risk with NIST AI RMF, ISO 42001, OWASP LLM Top 10, and OWASP AI Testing Guide.",
    "kind": "domain",
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "mastepanoski/claude-skills",
+   "repo_full_name": "liqianiiii/Awesome-ielts-claude-skills",
    "path": null,
    "stars": 63,
-   "description": "UX/UI evaluation, AI governance, and AI security skills for AI coding assistants. Audit interfaces with Nielsen heuristics, WCAG, Don Norman principles. Assess AI risk with NIST AI RMF, ISO 42001, OWASP LLM Top 10, and OWASP AI Testing Guide.",
+   "description": null,
    "kind": "domain",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -6827,6 +6817,16 @@
    "security_grade": "safe",
    "language": "Swift",
    "license": null
+  },
+  {
+   "repo_full_name": "ysyecust/everything-claude-code",
+   "path": null,
+   "stars": 62,
+   "description": "Complete collection of Claude Code configs for C++20 HPC development - agents, skills, hooks, commands, and rules",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "cgallic/kai-cmo-harness",
@@ -6856,16 +6856,6 @@
    "kind": "domain",
    "security_grade": "safe",
    "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "ysyecust/everything-claude-code",
-   "path": null,
-   "stars": 61,
-   "description": "Complete collection of Claude Code configs for C++20 HPC development - agents, skills, hooks, commands, and rules",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -7209,6 +7199,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "thiagoxikota/figma-maxxing",
+   "path": null,
+   "stars": 12,
+   "description": "8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks before and after every write, a handoff gate.",
+   "kind": "domain",
+   "security_grade": "safe",
+   "language": "Markdown",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "TheProsperityAgent/prosperity-real-estate-skills",
    "path": null,
    "stars": 11,
@@ -7216,16 +7216,6 @@
    "kind": "domain",
    "security_grade": "safe",
    "language": null,
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "thiagoxikota/figma-maxxing",
-   "path": null,
-   "stars": 11,
-   "description": "8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks before and after every write, a handoff gate.",
-   "kind": "domain",
-   "security_grade": "safe",
-   "language": "Markdown",
    "license": "MIT"
   },
   {
@@ -7251,7 +7241,7 @@
   {
    "repo_full_name": "remotion-dev/skills",
    "path": null,
-   "stars": 6079,
+   "stars": 6234,
    "description": "Agent Skills",
    "kind": "official",
    "security_grade": "safe",
@@ -7261,7 +7251,7 @@
   {
    "repo_full_name": "apify/agent-skills",
    "path": null,
-   "stars": 2480,
+   "stars": 2487,
    "description": "Collection of Apify agent skills",
    "kind": "official",
    "security_grade": "safe",
@@ -7271,7 +7261,7 @@
   {
    "repo_full_name": "gooseworks-ai/goose-skills",
    "path": null,
-   "stars": 1277,
+   "stars": 1278,
    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and data scraping",
    "kind": "official",
    "security_grade": "safe",
@@ -7281,7 +7271,7 @@
   {
    "repo_full_name": "microsoft/power-platform-skills",
    "path": null,
-   "stars": 1104,
+   "stars": 1108,
    "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
    "kind": "official",
    "security_grade": "safe",
@@ -7291,7 +7281,7 @@
   {
    "repo_full_name": "hashicorp/agent-skills",
    "path": null,
-   "stars": 912,
+   "stars": 911,
    "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
    "kind": "official",
    "security_grade": "safe",
@@ -7301,7 +7291,7 @@
   {
    "repo_full_name": "oxylabs/agent-skills",
    "path": null,
-   "stars": 878,
+   "stars": 877,
    "description": "Official Agent skills of Oxylabs products",
    "kind": "official",
    "security_grade": "safe",
@@ -7321,7 +7311,7 @@
   {
    "repo_full_name": "dbt-labs/dbt-agent-skills",
    "path": null,
-   "stars": 750,
+   "stars": 751,
    "description": "A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.",
    "kind": "official",
    "security_grade": "safe",
@@ -7351,7 +7341,7 @@
   {
    "repo_full_name": "microsoft/win-dev-skills",
    "path": null,
-   "stars": 494,
+   "stars": 497,
    "description": "Agent plugins for building Windows apps with GitHub Copilot, Claude Code, OpenAI Codex, and more.",
    "kind": "official",
    "security_grade": "safe",
@@ -7361,7 +7351,7 @@
   {
    "repo_full_name": "amd/skills",
    "path": null,
-   "stars": 473,
+   "stars": 474,
    "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
    "kind": "official",
    "security_grade": "safe",
@@ -7371,7 +7361,7 @@
   {
    "repo_full_name": "proficientlyjobs/proficiently-claude-skills",
    "path": null,
-   "stars": 445,
+   "stars": 448,
    "description": "Claude Code skills for AI-powered job search, resume tailoring, and cover letter writing",
    "kind": "official",
    "security_grade": "safe",
@@ -7381,7 +7371,7 @@
   {
    "repo_full_name": "gtmagents/gtm-agents",
    "path": null,
-   "stars": 432,
+   "stars": 433,
    "description": "Production-ready collection of GTM agents and specialized skills for claude code. Covers sales, marketing, customer success, and revenue operations workflows.",
    "kind": "official",
    "security_grade": "safe",
@@ -7441,7 +7431,7 @@
   {
    "repo_full_name": "osovv/grace-marketplace",
    "path": null,
-   "stars": 260,
+   "stars": 261,
    "description": " GRACE (Graph-RAG Anchored Code Engineering): open Agent Skills for contract-driven AI code generation with semantic markup, knowledge graphs, and support for Claude   Code, Codex CLI, and Kilo Code.",
    "kind": "official",
    "security_grade": "safe",
@@ -7519,16 +7509,6 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "molly554/replycueai_public",
-   "path": null,
-   "stars": 209,
-   "description": "AI-powered Claude Skills for YouTube comment analysis — brand relevance scoring, smart replies, KOL ROI reports, threat detection, and keyword extraction. Built by ReplyCue AI.",
-   "kind": "official",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "resend/resend-skills",
    "path": null,
    "stars": 209,
@@ -7536,6 +7516,16 @@
    "kind": "official",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "molly554/replycueai_public",
+   "path": null,
+   "stars": 208,
+   "description": "AI-powered Claude Skills for YouTube comment analysis — brand relevance scoring, smart replies, KOL ROI reports, threat detection, and keyword extraction. Built by ReplyCue AI.",
+   "kind": "official",
+   "security_grade": "safe",
+   "language": null,
    "license": "MIT"
   },
   {
@@ -7571,7 +7561,7 @@
   {
    "repo_full_name": "redis/agent-skills",
    "path": null,
-   "stars": 171,
+   "stars": 172,
    "description": "Redis' official collection of agent skills",
    "kind": "official",
    "security_grade": "safe",
@@ -7581,7 +7571,7 @@
   {
    "repo_full_name": "cometchat/cometchat-skills",
    "path": null,
-   "stars": 161,
+   "stars": 162,
    "description": "Add CometChat chat & messaging and voice & video calls to any React, Next.js, React Native, Angular, Android, iOS, or Flutter project through your AI coding agent. Works with Claude Code, Cursor, Codex, VS Code Copilot, Windsurf, Cline, Kiro, and 50+ more agents.",
    "kind": "official",
    "security_grade": "safe",
@@ -7601,7 +7591,7 @@
   {
    "repo_full_name": "replicate/skills",
    "path": null,
-   "stars": 145,
+   "stars": 146,
    "description": "A collection of Agent Skills for building AI-powered apps with Replicate",
    "kind": "official",
    "security_grade": "safe",
@@ -7651,7 +7641,7 @@
   {
    "repo_full_name": "apollographql/skills",
    "path": null,
-   "stars": 123,
+   "stars": 125,
    "description": "Apollo GraphQL Agent Skills",
    "kind": "official",
    "security_grade": "safe",
@@ -7721,7 +7711,7 @@
   {
    "repo_full_name": "Shopify/agent-skills",
    "path": null,
-   "stars": 100,
+   "stars": 101,
    "description": "Shopify skills for agent collaboration",
    "kind": "official",
    "security_grade": "safe",
@@ -7821,7 +7811,7 @@
   {
    "repo_full_name": "wandb/skills",
    "path": null,
-   "stars": 73,
+   "stars": 74,
    "description": "Official Agent Skills for Weights & Biases Models and Weave",
    "kind": "official",
    "security_grade": "safe",
@@ -7841,7 +7831,7 @@
   {
    "repo_full_name": "Servosity/msp-skills",
    "path": null,
-   "stars": 68,
+   "stars": 69,
    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your network.",
    "kind": "official",
    "security_grade": "safe",
@@ -7851,7 +7841,7 @@
   {
    "repo_full_name": "PixVerseAI/skills",
    "path": null,
-   "stars": 63,
+   "stars": 64,
    "description": "Agent skill library for PixVerse CLI — helps AI agents (Claude Code, Cursor, Codex, etc.) generate videos and images through structured, composable workflows.",
    "kind": "official",
    "security_grade": "safe",
@@ -7891,7 +7881,7 @@
   {
    "repo_full_name": "confluentinc/agent-skills",
    "path": null,
-   "stars": 60,
+   "stars": 61,
    "description": "AI agent skills for stream processing and event streaming",
    "kind": "official",
    "security_grade": "safe",
@@ -7951,7 +7941,7 @@
   {
    "repo_full_name": "ComposioHQ/awesome-claude-skills",
    "path": null,
-   "stars": 78586,
+   "stars": 78655,
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "kind": "list",
    "security_grade": "safe",
@@ -7961,7 +7951,7 @@
   {
    "repo_full_name": "hesreallyhim/awesome-claude-code",
    "path": null,
-   "stars": 57110,
+   "stars": 57169,
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "kind": "list",
    "security_grade": "safe",
@@ -7971,7 +7961,7 @@
   {
    "repo_full_name": "travisvn/awesome-claude-skills",
    "path": null,
-   "stars": 15675,
+   "stars": 15685,
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
    "kind": "list",
    "security_grade": "safe",
