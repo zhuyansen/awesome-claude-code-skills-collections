@@ -1,4 +1,14 @@
 {
+ "arjun988/blender-skills": {
+  "repo": "arjun988/blender-skills",
+  "url": "https://raw.githubusercontent.com/arjun988/blender-skills/HEAD/assets/Blender.png",
+  "alt": "Blender Skills",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 420273,
+  "file": "arjun988__blender-skills.jpg",
+  "still": "arjun988__blender-skills.jpg"
+ },
  "charlie947/motion-graphics-skills": {
   "repo": "charlie947/motion-graphics-skills",
   "url": "https://raw.githubusercontent.com/charlie947/motion-graphics-skills/HEAD/assets/readme/demo-launch.gif",

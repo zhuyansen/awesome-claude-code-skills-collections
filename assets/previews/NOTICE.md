@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `arjun988__blender-skills.jpg` | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | MIT | [source](https://raw.githubusercontent.com/arjun988/blender-skills/HEAD/assets/Blender.png) |
 | `charlie947__motion-graphics-skills.gif` | [charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills) | MIT | [source](https://raw.githubusercontent.com/charlie947/motion-graphics-skills/HEAD/assets/readme/demo-launch.gif) |
 | `iart-ai__motion-design-skills.gif` | [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) | MIT | [source](https://raw.githubusercontent.com/iart-ai/motion-design-skills/HEAD/showcase.gif) |
 | `nathankim0__clean-architecture-skills.jpg` | [nathankim0/clean-architecture-skills](https://github.com/nathankim0/clean-architecture-skills) | MIT | [source](https://github.com/user-attachments/assets/e0b26116-97c8-4062-b323-ad7239f66006) |
