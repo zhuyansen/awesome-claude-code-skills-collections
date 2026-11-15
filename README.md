@@ -937,6 +937,7 @@ On 2026-10-11 we opened the 39 most-starred collections on this page and counted
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 79.5k | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | [SAFE](https://agentskillshub.top/skill/ComposioHQ/awesome-claude-skills/) |
 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58.1k | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from t… | [SAFE](https://agentskillshub.top/skill/hesreallyhim/awesome-claude-code/) |
 | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 15.8k | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code | [SAFE](https://agentskillshub.top/skill/travisvn/awesome-claude-skills/) |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | n/a | Hosted MCP server for live-music venue discovery, booking contacts, and tour routing | n/a |
 
 **Security** is the grade of the repo's README and install steps on Agent Skills Hub. *pending* means the catalog has not graded it yet.
 
