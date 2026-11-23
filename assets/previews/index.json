@@ -49,6 +49,16 @@
   "file": "openqa-cn__codexqa.jpg",
   "still": "openqa-cn__codexqa.jpg"
  },
+ "whystrohm/shotkit": {
+  "repo": "whystrohm/shotkit",
+  "url": "https://raw.githubusercontent.com/whystrohm/shotkit/HEAD/docs/images/demo.webp",
+  "alt": "Shotkit demo: a brief typed in Claude Code, every shot planned and every frame c",
+  "score": -0.5,
+  "type": "image/webp",
+  "bytes": 4304930,
+  "file": "whystrohm__shotkit.jpg",
+  "still": "whystrohm__shotkit.jpg"
+ },
  "zenstory-ai/video-recap-skills": {
   "repo": "zenstory-ai/video-recap-skills",
   "url": "https://raw.githubusercontent.com/zenstory-ai/video-recap-skills/HEAD/docs/jianying-export.jpg",
